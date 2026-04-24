@@ -1,0 +1,9639 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "15df9415-1286-4935-8571-01d38bb1b404")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Connector:Conn_01x16_Socket"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 20.32 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x16_Socket"
+				(at 0 -22.86 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x16, script generated"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x16_Socket_1_1"
+				(polyline
+					(pts
+						(xy -1.27 17.78) (xy -0.508 17.78)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 15.24) (xy -0.508 15.24)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 12.7) (xy -0.508 12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 10.16) (xy -0.508 10.16)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 7.62) (xy -0.508 7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.08) (xy -0.508 5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.54) (xy -0.508 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy -0.508 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy -0.508 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -7.62) (xy -0.508 -7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -10.16) (xy -0.508 -10.16)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -12.7) (xy -0.508 -12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -15.24) (xy -0.508 -15.24)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -17.78) (xy -0.508 -17.78)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -20.32) (xy -0.508 -20.32)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 17.272)
+					(mid -0.5058 17.78)
+					(end 0 18.288)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 14.732)
+					(mid -0.5058 15.24)
+					(end 0 15.748)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 12.192)
+					(mid -0.5058 12.7)
+					(end 0 13.208)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 9.652)
+					(mid -0.5058 10.16)
+					(end 0 10.668)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 7.112)
+					(mid -0.5058 7.62)
+					(end 0 8.128)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 4.572)
+					(mid -0.5058 5.08)
+					(end 0 5.588)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 2.032)
+					(mid -0.5058 2.54)
+					(end 0 3.048)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -0.508)
+					(mid -0.5058 0)
+					(end 0 0.508)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -3.048)
+					(mid -0.5058 -2.54)
+					(end 0 -2.032)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -5.588)
+					(mid -0.5058 -5.08)
+					(end 0 -4.572)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -8.128)
+					(mid -0.5058 -7.62)
+					(end 0 -7.112)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -10.668)
+					(mid -0.5058 -10.16)
+					(end 0 -9.652)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -13.208)
+					(mid -0.5058 -12.7)
+					(end 0 -12.192)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -15.748)
+					(mid -0.5058 -15.24)
+					(end 0 -14.732)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -18.288)
+					(mid -0.5058 -17.78)
+					(end 0 -17.272)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -20.828)
+					(mid -0.5058 -20.32)
+					(end 0 -19.812)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 17.78 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 15.24 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 12.7 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 10.16 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 7.62 0)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 3.81)
+					(name "Pin_11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -10.16 0)
+					(length 3.81)
+					(name "Pin_12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -12.7 0)
+					(length 3.81)
+					(name "Pin_13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -15.24 0)
+					(length 3.81)
+					(name "Pin_14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -17.78 0)
+					(length 3.81)
+					(name "Pin_15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -20.32 0)
+					(length 3.81)
+					(name "Pin_16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Switch:SW_Push_Dual"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_Push_Dual"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Push button switch, generic, symbol, four pins"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_Push_Dual_0_1"
+				(circle
+					(center -2.032 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.032 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 5.588)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.048) (xy 0 3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.032) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.016) (xy 0 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.508) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.508) (xy 0 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 3.81) (xy -2.54 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -1.27) (xy -2.54 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SW_Push_Dual_1_1"
+				(rectangle
+					(start -3.175 5.715)
+					(end 3.175 -4.445)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 96.52 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "002b4aae-41d5-43b5-936a-651fe55b32b9")
+	)
+	(junction
+		(at 72.39 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "066f6412-7c28-4ed0-a2b0-88a01dd355e6")
+	)
+	(junction
+		(at 72.39 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a86da0b-c6e8-4e70-8628-e0ee26313d6f")
+	)
+	(junction
+		(at 30.48 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "19923a57-e00f-48d8-a027-6d70f4672395")
+	)
+	(junction
+		(at 30.48 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b1190e5-d8a7-4f51-abee-aa4751c4b266")
+	)
+	(junction
+		(at 193.04 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2080b24f-37c3-4014-bef2-8134fc2337e9")
+	)
+	(junction
+		(at 193.04 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23ec8f9e-707c-45f4-80ca-ed9b81936042")
+	)
+	(junction
+		(at 96.52 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d4b8659-ca3c-443b-b323-94b2ab1b95dc")
+	)
+	(junction
+		(at 30.48 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e868e60-f7c5-4b52-8632-a124f70d9b12")
+	)
+	(junction
+		(at 193.04 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3377c90f-7bea-44bf-b033-f2a4be2fd3cd")
+	)
+	(junction
+		(at 120.65 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36053317-54a4-43a6-8fa4-eaf3f8e0044c")
+	)
+	(junction
+		(at 48.26 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bbe25f5-7fb1-4cd6-a2f9-e417f83cae47")
+	)
+	(junction
+		(at 144.78 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43571cdc-3d48-4944-a0f3-72fa00219736")
+	)
+	(junction
+		(at 168.91 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46b894fa-95e3-451e-835a-d64ce65df004")
+	)
+	(junction
+		(at 168.91 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "473c4bc1-9115-47b6-8df4-c0c279f6d632")
+	)
+	(junction
+		(at 120.65 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b0b26c4-f778-4432-862b-427f76c1415c")
+	)
+	(junction
+		(at 72.39 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4e9413d1-8a9a-4d85-b9e7-a52c231a532a")
+	)
+	(junction
+		(at 168.91 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55ce5784-c8a2-43b5-91ca-dd9e9b2590d4")
+	)
+	(junction
+		(at 96.52 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55d7867f-84cc-47af-a068-464fdc792a0a")
+	)
+	(junction
+		(at 193.04 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b864cdd-5bc3-4c5c-91db-988cec81bf06")
+	)
+	(junction
+		(at 96.52 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e3091b0-fceb-4682-9c21-0cc87911e4af")
+	)
+	(junction
+		(at 168.91 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "76248bb9-7b18-42ae-9b05-5bb54304649f")
+	)
+	(junction
+		(at 48.26 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77bbbbbc-9f8a-4462-a8bb-643189164c5c")
+	)
+	(junction
+		(at 48.26 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78689526-658d-4a13-8d59-837be496c857")
+	)
+	(junction
+		(at 168.91 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b048efa-d1c7-4656-bb76-edb436747fe6")
+	)
+	(junction
+		(at 30.48 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80505645-f89e-46ee-946c-579f2f126e15")
+	)
+	(junction
+		(at 48.26 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80a502d6-14e2-4db7-9394-962d408361ab")
+	)
+	(junction
+		(at 144.78 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8706c1d4-d7c8-4d49-9066-11fe968e2c4c")
+	)
+	(junction
+		(at 72.39 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "899ddf2e-2b0d-485f-b967-026a4527fd75")
+	)
+	(junction
+		(at 72.39 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8f0ba09b-c746-4aca-ba83-d3e604fccdb2")
+	)
+	(junction
+		(at 168.91 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8fa61d84-c61e-4326-b948-2163f84b1329")
+	)
+	(junction
+		(at 30.48 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8fc80299-e9fc-4a56-be06-ffc0130a14a7")
+	)
+	(junction
+		(at 120.65 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "906d3fb7-baeb-4807-ab2e-8f21495ec20e")
+	)
+	(junction
+		(at 30.48 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91d5eadc-1fd3-4f65-8440-f3b0cbeb13b7")
+	)
+	(junction
+		(at 72.39 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9dbf4afd-6564-46a8-8f0d-ad49f9db4618")
+	)
+	(junction
+		(at 144.78 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e8fe8d0-6a07-4fe7-ad04-7f7ac06af513")
+	)
+	(junction
+		(at 48.26 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5fad30f-eb7d-40bb-8368-e24b74ee03a5")
+	)
+	(junction
+		(at 96.52 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aad9aef0-a06e-4af4-8268-e13dd706d8be")
+	)
+	(junction
+		(at 120.65 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab2e517a-b42b-4f5e-98c0-bf993cd80f82")
+	)
+	(junction
+		(at 96.52 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac5a4185-2df5-4948-aed9-0481f90bae8c")
+	)
+	(junction
+		(at 168.91 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aef7ab9f-3aa4-4b01-93c9-ca73a1a3ac1f")
+	)
+	(junction
+		(at 48.26 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3ed63a2-a714-4ad9-b25d-ef04777c2703")
+	)
+	(junction
+		(at 193.04 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3f1978a-9bdd-4b47-b020-45463cf5b99b")
+	)
+	(junction
+		(at 193.04 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b518e669-bbf6-4839-bd2d-b3f8e82c5c49")
+	)
+	(junction
+		(at 72.39 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b605f5b9-3915-4789-9155-6f414a57b843")
+	)
+	(junction
+		(at 120.65 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b70bffde-7b4a-4e6b-a811-a507bf1c9ffc")
+	)
+	(junction
+		(at 144.78 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b72aca6e-cc78-487f-ac61-865adce50613")
+	)
+	(junction
+		(at 48.26 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b79bb7d4-ba19-467e-a83e-51f1646e5697")
+	)
+	(junction
+		(at 30.48 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9684be4-d705-4e70-9fc1-966bf8584419")
+	)
+	(junction
+		(at 96.52 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2934773-789b-4749-92b9-8508ebf23a23")
+	)
+	(junction
+		(at 144.78 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e27c9d60-a31d-471e-b457-d06ab935154d")
+	)
+	(junction
+		(at 144.78 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e39e6214-5471-47c5-a644-b8d7b354e03b")
+	)
+	(junction
+		(at 120.65 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e6660b89-3748-455d-ba3a-eeb102819378")
+	)
+	(junction
+		(at 120.65 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed5aa841-f949-450c-8cd1-88194830ee59")
+	)
+	(junction
+		(at 144.78 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f3f96cc8-2d0b-4711-84d9-13e441f2b590")
+	)
+	(junction
+		(at 193.04 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd8cb891-00a8-42bb-8925-65797042db66")
+	)
+	(no_connect
+		(at 45.72 185.42)
+		(uuid "007ccb79-9a82-4b44-83d5-7c06f36d941c")
+	)
+	(no_connect
+		(at 118.11 77.47)
+		(uuid "0620a069-2de1-456e-9bc7-33bcb5f2c1e5")
+	)
+	(no_connect
+		(at 190.5 119.38)
+		(uuid "06fa840e-e4f7-4a91-8103-bc0c37586286")
+	)
+	(no_connect
+		(at 93.98 99.06)
+		(uuid "0a115455-8df1-45f9-ad7a-7f882dd9e1bf")
+	)
+	(no_connect
+		(at 190.5 99.06)
+		(uuid "0aa519f6-c4e3-495f-8492-a1c8d08f4b99")
+	)
+	(no_connect
+		(at 45.72 99.06)
+		(uuid "111b0cc2-aa37-4336-8bb9-082c1dde4fe8")
+	)
+	(no_connect
+		(at 35.56 60.96)
+		(uuid "1447ed65-9791-475f-9cc8-6cdbdce85a0a")
+	)
+	(no_connect
+		(at 214.63 55.88)
+		(uuid "197b725c-0c06-4a38-84de-dcc536e1b5f5")
+	)
+	(no_connect
+		(at 166.37 140.97)
+		(uuid "1f09c733-d7b1-49d3-b468-b720164e22cb")
+	)
+	(no_connect
+		(at 118.11 99.06)
+		(uuid "24402c4f-6a6b-4723-817e-6d1643d7e799")
+	)
+	(no_connect
+		(at 118.11 119.38)
+		(uuid "33afaae3-c242-44ad-8304-7648f81660d3")
+	)
+	(no_connect
+		(at 166.37 55.88)
+		(uuid "376f00c7-40b3-4d7f-b029-faa029eb662c")
+	)
+	(no_connect
+		(at 45.72 119.38)
+		(uuid "3a47d083-8362-4c52-9900-d66f1695bb29")
+	)
+	(no_connect
+		(at 118.11 55.88)
+		(uuid "3b05b2be-e88f-42e1-8011-59d38b5ddf23")
+	)
+	(no_connect
+		(at 142.24 99.06)
+		(uuid "3ba5f1fb-5d8c-422d-8058-c7d6c55f0999")
+	)
+	(no_connect
+		(at 214.63 140.97)
+		(uuid "3d618b9e-c215-4175-a6e4-79bea87c2580")
+	)
+	(no_connect
+		(at 35.56 39.37)
+		(uuid "41e69c2f-f56d-42a2-9dae-c2615d601f08")
+	)
+	(no_connect
+		(at 69.85 34.29)
+		(uuid "4320f8d7-be16-4c82-a0fe-f6d5fbe5cc4d")
+	)
+	(no_connect
+		(at 69.85 55.88)
+		(uuid "44298323-d274-402d-ad14-a42a5669e03b")
+	)
+	(no_connect
+		(at 35.56 190.5)
+		(uuid "476b0e03-4eee-4bd8-ae4e-2026d881bdab")
+	)
+	(no_connect
+		(at 45.72 140.97)
+		(uuid "4cc34121-1967-4902-954f-2d79b0ef79b5")
+	)
+	(no_connect
+		(at 35.56 124.46)
+		(uuid "565d6112-1644-4dcd-936e-f0c69e3755bc")
+	)
+	(no_connect
+		(at 190.5 185.42)
+		(uuid "5e21b128-5a6c-4360-91aa-518aa5f667e6")
+	)
+	(no_connect
+		(at 45.72 34.29)
+		(uuid "62ed3a6a-fc11-4971-9d2f-3767714b2fde")
+	)
+	(no_connect
+		(at 166.37 119.38)
+		(uuid "642b18b2-a51d-4774-af1f-5dc8d46054ca")
+	)
+	(no_connect
+		(at 166.37 34.29)
+		(uuid "66395df3-8ec5-4026-bec3-534ab854f91b")
+	)
+	(no_connect
+		(at 35.56 82.55)
+		(uuid "67b0a1f0-25eb-47ae-bc78-22b2bcb23227")
+	)
+	(no_connect
+		(at 190.5 163.83)
+		(uuid "6c626d36-b53d-418b-8505-85fd43bc9d6c")
+	)
+	(no_connect
+		(at 190.5 55.88)
+		(uuid "70cc5ee5-a597-4b84-a0a0-dafe8620b425")
+	)
+	(no_connect
+		(at 35.56 168.91)
+		(uuid "71b3cc0b-ed0f-448d-adff-62add6093a0e")
+	)
+	(no_connect
+		(at 166.37 77.47)
+		(uuid "76af34f8-8845-4e2c-ad35-0409a820aba2")
+	)
+	(no_connect
+		(at 142.24 119.38)
+		(uuid "79d6e34a-1361-4fd3-b740-dac0dd631bbf")
+	)
+	(no_connect
+		(at 166.37 185.42)
+		(uuid "7d086ebd-71b4-4d41-8b84-b25e8996aea4")
+	)
+	(no_connect
+		(at 142.24 34.29)
+		(uuid "81a3b826-96f5-485c-9754-c211604f8d85")
+	)
+	(no_connect
+		(at 45.72 163.83)
+		(uuid "821588a9-672a-4836-bd92-f77b434c8d4c")
+	)
+	(no_connect
+		(at 214.63 99.06)
+		(uuid "861a7474-7cb9-4d31-a2bd-43f39ec4541d")
+	)
+	(no_connect
+		(at 93.98 185.42)
+		(uuid "8a4cba5d-e2da-4c63-9212-4f1b981c5a2e")
+	)
+	(no_connect
+		(at 45.72 55.88)
+		(uuid "8bba0fe1-24bb-424a-983e-4c12e8ceea4a")
+	)
+	(no_connect
+		(at 93.98 55.88)
+		(uuid "901ed059-4420-491b-b87c-1f324b77169e")
+	)
+	(no_connect
+		(at 93.98 140.97)
+		(uuid "91282a82-b984-4469-95bb-e4e70fa23a8c")
+	)
+	(no_connect
+		(at 93.98 163.83)
+		(uuid "9385c8a2-8497-4464-ba52-0f8e23139471")
+	)
+	(no_connect
+		(at 214.63 34.29)
+		(uuid "99c4803a-47ca-4964-9fd9-ebdb1bfaac06")
+	)
+	(no_connect
+		(at 166.37 163.83)
+		(uuid "9d330e05-7fb1-4c9b-9e11-ef03b0e2085b")
+	)
+	(no_connect
+		(at 35.56 104.14)
+		(uuid "a0e811c9-477c-4cf6-a09a-90a57a23d60e")
+	)
+	(no_connect
+		(at 69.85 99.06)
+		(uuid "a15a093b-aaa5-4c5e-b573-62947f6714d4")
+	)
+	(no_connect
+		(at 118.11 163.83)
+		(uuid "a2d6e775-0895-4fa2-a37b-ba5688735dae")
+	)
+	(no_connect
+		(at 142.24 77.47)
+		(uuid "a6de8e30-552c-4797-a072-94cb4eb372cc")
+	)
+	(no_connect
+		(at 35.56 146.05)
+		(uuid "adae000e-0e0b-4d59-be29-e97ee6494c00")
+	)
+	(no_connect
+		(at 214.63 77.47)
+		(uuid "b1809ced-07e8-40d1-98b5-d728229dd3cc")
+	)
+	(no_connect
+		(at 69.85 77.47)
+		(uuid "b2869109-d89b-49ea-9e4d-dfb2d4c5c0ec")
+	)
+	(no_connect
+		(at 118.11 34.29)
+		(uuid "b31a5f09-ed88-49a8-bfd5-85e701b04231")
+	)
+	(no_connect
+		(at 118.11 140.97)
+		(uuid "b5854605-7ba5-4832-a209-7505f4202ce2")
+	)
+	(no_connect
+		(at 142.24 163.83)
+		(uuid "b658cee7-99b0-410f-b145-ff0ca2583b34")
+	)
+	(no_connect
+		(at 190.5 77.47)
+		(uuid "bd7ac9f4-13f1-47d3-87e0-d153016e2611")
+	)
+	(no_connect
+		(at 142.24 140.97)
+		(uuid "beada987-3db5-46bf-b6e0-784feba1c60d")
+	)
+	(no_connect
+		(at 214.63 185.42)
+		(uuid "c7b0a452-1ba5-40c7-8638-37850982bd73")
+	)
+	(no_connect
+		(at 69.85 140.97)
+		(uuid "c7befe54-fc80-47c0-8eeb-870f4bbfc653")
+	)
+	(no_connect
+		(at 190.5 140.97)
+		(uuid "c7c61ffa-4226-42c1-a11b-054a4fe32eb7")
+	)
+	(no_connect
+		(at 69.85 163.83)
+		(uuid "ca1acfb8-48e3-47a4-b960-d92f10b6bd04")
+	)
+	(no_connect
+		(at 142.24 185.42)
+		(uuid "cdb3e90b-30de-4d13-86cf-95c173a500e9")
+	)
+	(no_connect
+		(at 214.63 163.83)
+		(uuid "ce27ce56-071c-41d0-91bc-0120ad01dff6")
+	)
+	(no_connect
+		(at 69.85 185.42)
+		(uuid "d189239e-80de-40ec-9c0a-fe354c4eaf03")
+	)
+	(no_connect
+		(at 93.98 34.29)
+		(uuid "d8ab3b3f-adb6-441b-aa25-577caa5c3861")
+	)
+	(no_connect
+		(at 93.98 119.38)
+		(uuid "e8a02359-a6d6-4ecd-b96a-b7bd2bb2a9bf")
+	)
+	(no_connect
+		(at 142.24 55.88)
+		(uuid "ed9f0daf-7b72-4352-b5ff-d7df26c84bbd")
+	)
+	(no_connect
+		(at 190.5 34.29)
+		(uuid "ee5a83e4-1514-45fb-85a2-fce9b4deb0ee")
+	)
+	(no_connect
+		(at 93.98 77.47)
+		(uuid "ee5f1801-0f26-41ae-8935-9589fa939313")
+	)
+	(no_connect
+		(at 166.37 99.06)
+		(uuid "f0ea15b0-590c-4aca-b22e-1f4bb56ae47d")
+	)
+	(no_connect
+		(at 45.72 77.47)
+		(uuid "f14d47ce-4048-4d31-97ac-bc3e82ecc068")
+	)
+	(no_connect
+		(at 118.11 185.42)
+		(uuid "f39643f4-d0b0-4b1a-860a-43e4ea7fbc3b")
+	)
+	(no_connect
+		(at 214.63 119.38)
+		(uuid "fafd4b58-85f0-44bb-bebc-242cbac2f730")
+	)
+	(no_connect
+		(at 69.85 119.38)
+		(uuid "fd7716f3-3f99-4483-a27e-558d97db3c38")
+	)
+	(wire
+		(pts
+			(xy 193.04 77.47) (xy 204.47 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "004e8fd9-55e2-4970-ae2c-d17287f121bf")
+	)
+	(wire
+		(pts
+			(xy 118.11 82.55) (xy 132.08 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00580920-286f-45d0-ac1a-21dbe2252aaf")
+	)
+	(wire
+		(pts
+			(xy 144.78 119.38) (xy 156.21 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00aaa09b-d17e-4585-87c6-e1eb4b0649de")
+	)
+	(wire
+		(pts
+			(xy 213.36 19.05) (xy 213.36 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00cd70e1-d20f-458e-85b6-df8dfa43c9f8")
+	)
+	(wire
+		(pts
+			(xy 190.5 168.91) (xy 204.47 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "047c5ad9-2381-43ab-9c99-6d1c161d5b64")
+	)
+	(wire
+		(pts
+			(xy 48.26 140.97) (xy 59.69 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04974f78-c8c6-482b-b11d-ffb1548b0d37")
+	)
+	(wire
+		(pts
+			(xy 168.91 119.38) (xy 168.91 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05ab423c-1ba7-423b-92ef-f3415fbef367")
+	)
+	(wire
+		(pts
+			(xy 193.04 163.83) (xy 204.47 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06143912-c9e5-4aea-b089-8661edb70eee")
+	)
+	(wire
+		(pts
+			(xy 93.98 124.46) (xy 107.95 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06a116f7-8504-466f-bec7-8caa15d36a31")
+	)
+	(wire
+		(pts
+			(xy 69.85 168.91) (xy 83.82 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06ea0969-366e-471e-8e16-fe182be5d24c")
+	)
+	(wire
+		(pts
+			(xy 193.04 34.29) (xy 204.47 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0744533e-351d-4304-bc3b-af8f4e1eabe6")
+	)
+	(wire
+		(pts
+			(xy 30.48 77.47) (xy 35.56 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a137eb8-1a29-464b-8e47-60cef57c13de")
+	)
+	(wire
+		(pts
+			(xy 120.65 77.47) (xy 132.08 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b8b31da-f43d-4301-b48c-b554f4f2cdc9")
+	)
+	(wire
+		(pts
+			(xy 142.24 60.96) (xy 156.21 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b9003c7-bd34-467e-b1aa-3c10f87ca874")
+	)
+	(wire
+		(pts
+			(xy 195.58 19.05) (xy 195.58 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ea42537-4c6f-4a22-8ea3-17c19ae1e6db")
+	)
+	(wire
+		(pts
+			(xy 120.65 140.97) (xy 132.08 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fe5499f-5bc9-49df-abe7-715100cc8718")
+	)
+	(wire
+		(pts
+			(xy 48.26 55.88) (xy 59.69 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "114e6cc1-a211-48e9-bde4-6cba2690bd7d")
+	)
+	(wire
+		(pts
+			(xy 208.28 19.05) (xy 208.28 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13e6e791-b6fa-40a8-9169-b2d7e18ef07a")
+	)
+	(wire
+		(pts
+			(xy 30.48 163.83) (xy 30.48 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1537bf1a-f627-46e3-b6fa-7edd7d8b3787")
+	)
+	(wire
+		(pts
+			(xy 222.25 30.48) (xy 195.58 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17e5404d-c4be-43e5-8578-3d84a5489b0e")
+	)
+	(wire
+		(pts
+			(xy 144.78 99.06) (xy 144.78 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1983eec8-a768-45b3-b221-809f6a33d9dc")
+	)
+	(wire
+		(pts
+			(xy 214.63 190.5) (xy 231.14 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1acfac3c-468a-4efa-b6da-c40c0e1f1455")
+	)
+	(wire
+		(pts
+			(xy 120.65 119.38) (xy 132.08 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cc623b2-043c-4332-b0fd-b4a5fe80ae39")
+	)
+	(wire
+		(pts
+			(xy 144.78 99.06) (xy 156.21 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f5e76fa-4c0c-4105-b36a-ca3daf596439")
+	)
+	(wire
+		(pts
+			(xy 72.39 99.06) (xy 72.39 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "210aebfc-33fb-434f-9304-7bf231dcf132")
+	)
+	(wire
+		(pts
+			(xy 168.91 99.06) (xy 168.91 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23489ec0-0421-44e3-935c-080a729e5c12")
+	)
+	(wire
+		(pts
+			(xy 205.74 19.05) (xy 205.74 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23a5f9c6-39f8-4893-86a1-8c0b427197e4")
+	)
+	(wire
+		(pts
+			(xy 48.26 119.38) (xy 48.26 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24854ea7-8562-46b9-afc8-88e1d533bfe1")
+	)
+	(wire
+		(pts
+			(xy 72.39 119.38) (xy 83.82 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26ff6ef1-6f61-4342-a9f7-e5bf7c42664d")
+	)
+	(wire
+		(pts
+			(xy 96.52 185.42) (xy 107.95 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "275be884-e72f-4687-be1a-01a52d8bd104")
+	)
+	(wire
+		(pts
+			(xy 120.65 140.97) (xy 120.65 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "275d0dcc-636f-4cae-919f-8321c220dc9f")
+	)
+	(wire
+		(pts
+			(xy 96.52 99.06) (xy 107.95 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d1320da-277d-4e39-9f89-29a4bf453c83")
+	)
+	(wire
+		(pts
+			(xy 168.91 34.29) (xy 168.91 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d6ac1ac-4dd2-4b8a-a915-a7c8a70ca305")
+	)
+	(wire
+		(pts
+			(xy 144.78 140.97) (xy 144.78 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e293ba5-a0a7-4fb2-9fb8-c381120e7333")
+	)
+	(wire
+		(pts
+			(xy 166.37 60.96) (xy 180.34 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f1451e4-3c43-4aec-8164-9bb2c233841b")
+	)
+	(wire
+		(pts
+			(xy 93.98 39.37) (xy 107.95 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30024086-b892-4d12-825e-5258d9e1712d")
+	)
+	(wire
+		(pts
+			(xy 190.5 190.5) (xy 204.47 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "326e54f8-d4a5-4454-87fd-3dc6995f8093")
+	)
+	(wire
+		(pts
+			(xy 93.98 190.5) (xy 107.95 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3344b181-66d5-431c-a1c9-1b03ea47b419")
+	)
+	(wire
+		(pts
+			(xy 231.14 21.59) (xy 231.14 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "335e62ec-f7b7-496a-86a0-ea44f340b19e")
+	)
+	(wire
+		(pts
+			(xy 72.39 140.97) (xy 72.39 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33993a05-ed39-4e4f-9fbb-0dbb455e6d34")
+	)
+	(wire
+		(pts
+			(xy 93.98 168.91) (xy 107.95 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33af5ad3-8d9e-4a7d-af75-a2192cecfe31")
+	)
+	(wire
+		(pts
+			(xy 120.65 119.38) (xy 120.65 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33da3747-0350-4614-993e-dea4c8a26bdb")
+	)
+	(wire
+		(pts
+			(xy 93.98 60.96) (xy 107.95 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "343042c8-97c2-4240-bb44-29d68a136663")
+	)
+	(wire
+		(pts
+			(xy 96.52 99.06) (xy 96.52 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34497f86-197e-4ec2-aa24-0c4f68f9bfd4")
+	)
+	(wire
+		(pts
+			(xy 30.48 77.47) (xy 30.48 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34d51dd9-af7d-452d-8bcd-ba4cbe8d75b8")
+	)
+	(wire
+		(pts
+			(xy 168.91 29.21) (xy 168.91 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36cb2c02-cfd9-407c-8afb-0bb3e9fed9b4")
+	)
+	(wire
+		(pts
+			(xy 30.48 99.06) (xy 30.48 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38da9666-cfaa-4201-adf0-172628d65b9e")
+	)
+	(wire
+		(pts
+			(xy 30.48 119.38) (xy 30.48 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39c37d45-f16d-4a55-9fe4-df0667dede39")
+	)
+	(wire
+		(pts
+			(xy 118.11 190.5) (xy 132.08 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39c4ceb3-d1ff-46dd-9754-b77da422ba25")
+	)
+	(wire
+		(pts
+			(xy 166.37 39.37) (xy 180.34 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39cb90eb-cf24-4283-b28c-d5819cac2675")
+	)
+	(wire
+		(pts
+			(xy 96.52 34.29) (xy 107.95 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a542c81-bafa-4cb1-8c25-003acc3f12fd")
+	)
+	(wire
+		(pts
+			(xy 96.52 77.47) (xy 96.52 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b38f6b2-e18d-43eb-a0b7-689d3d542b06")
+	)
+	(wire
+		(pts
+			(xy 45.72 146.05) (xy 59.69 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c9a445c-ceb2-4b1c-b243-18ae3267d762")
+	)
+	(wire
+		(pts
+			(xy 142.24 168.91) (xy 156.21 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ca91424-f49b-4568-b5a4-2629f7f1492f")
+	)
+	(wire
+		(pts
+			(xy 96.52 163.83) (xy 96.52 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d3d84f5-1a91-4ecc-9858-4ea36a19cb1f")
+	)
+	(wire
+		(pts
+			(xy 193.04 55.88) (xy 204.47 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d73b0fb-32d8-4b9a-a839-9e2b9c3e45d6")
+	)
+	(wire
+		(pts
+			(xy 45.72 82.55) (xy 59.69 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f716d51-e981-4901-a4fb-f39e6c1a6290")
+	)
+	(wire
+		(pts
+			(xy 168.91 140.97) (xy 180.34 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fac61b5-c7b0-479d-ac7d-780e4f619520")
+	)
+	(wire
+		(pts
+			(xy 193.04 185.42) (xy 193.04 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "407c27ee-4df0-403f-ad6e-b06e6615bcbe")
+	)
+	(wire
+		(pts
+			(xy 118.11 168.91) (xy 132.08 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "412a9262-6b44-4204-8446-c779ab3a7181")
+	)
+	(wire
+		(pts
+			(xy 193.04 140.97) (xy 204.47 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "425549e8-cf0e-4de3-8954-324c14f54242")
+	)
+	(wire
+		(pts
+			(xy 166.37 82.55) (xy 180.34 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4264cddc-95f5-4f2f-8791-40f5362479f8")
+	)
+	(wire
+		(pts
+			(xy 228.6 24.13) (xy 228.6 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42b4fcad-b9a8-4146-869a-709ddd8bdd5d")
+	)
+	(wire
+		(pts
+			(xy 30.48 140.97) (xy 30.48 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42feb127-e925-439d-80c6-c6180d9c7f3d")
+	)
+	(wire
+		(pts
+			(xy 142.24 146.05) (xy 156.21 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4664aa52-8ed8-41bf-8826-a7c0056d28a8")
+	)
+	(wire
+		(pts
+			(xy 168.91 119.38) (xy 180.34 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4672c664-b5aa-4156-a377-99a1e1502150")
+	)
+	(wire
+		(pts
+			(xy 48.26 99.06) (xy 59.69 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4707a310-388e-4160-b5db-f0ce11f5768c")
+	)
+	(wire
+		(pts
+			(xy 168.91 163.83) (xy 168.91 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47d013f8-bfe4-491e-b0cd-db3be45338c9")
+	)
+	(wire
+		(pts
+			(xy 142.24 104.14) (xy 156.21 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "486356d5-3a9a-454b-97ce-d9a6b61fd1e5")
+	)
+	(wire
+		(pts
+			(xy 142.24 124.46) (xy 156.21 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49acd6ef-bed2-40b9-9d49-85c0c0426c67")
+	)
+	(wire
+		(pts
+			(xy 120.65 163.83) (xy 120.65 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49bda80d-03c8-46c1-be6d-f464053157ef")
+	)
+	(wire
+		(pts
+			(xy 166.37 104.14) (xy 180.34 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b0c404b-3f70-4b70-b646-3fcd122a850e")
+	)
+	(wire
+		(pts
+			(xy 180.34 19.05) (xy 180.34 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d4b99fb-e36c-4600-a3bb-bcaed99a8575")
+	)
+	(wire
+		(pts
+			(xy 193.04 140.97) (xy 193.04 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dc5f548-4dba-4f54-a102-851714946e51")
+	)
+	(wire
+		(pts
+			(xy 177.8 19.05) (xy 177.8 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dea2765-486a-4d1f-a224-99969a336267")
+	)
+	(wire
+		(pts
+			(xy 93.98 104.14) (xy 107.95 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5043a57a-33fa-4d77-b029-c8d654659a0d")
+	)
+	(wire
+		(pts
+			(xy 226.06 26.67) (xy 226.06 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50f0af65-2870-4fbe-90a7-588afa07fce9")
+	)
+	(wire
+		(pts
+			(xy 190.5 104.14) (xy 204.47 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "518c7fec-4a1b-4c97-8f80-e050c1160846")
+	)
+	(wire
+		(pts
+			(xy 227.33 124.46) (xy 214.63 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52c43e2e-b2e0-4b1c-a860-7a18cc33a92e")
+	)
+	(wire
+		(pts
+			(xy 30.48 119.38) (xy 35.56 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "532336e6-baeb-4f84-97ca-edc629cd38e2")
+	)
+	(wire
+		(pts
+			(xy 193.04 34.29) (xy 193.04 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "532f9a1c-0951-4573-bac9-a00fd0eb6055")
+	)
+	(wire
+		(pts
+			(xy 48.26 185.42) (xy 48.26 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "534d8ffe-303e-4067-936e-3728d45bd1ba")
+	)
+	(wire
+		(pts
+			(xy 187.96 27.94) (xy 144.78 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54446c4f-eddc-4fff-b4d8-d3d3406dc9f2")
+	)
+	(wire
+		(pts
+			(xy 182.88 19.05) (xy 182.88 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "547f67d1-8257-492a-aa4a-0bb5f7b3d1a7")
+	)
+	(wire
+		(pts
+			(xy 177.8 22.86) (xy 48.26 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54f6ddf9-763d-42a1-af1a-914e85a54c79")
+	)
+	(wire
+		(pts
+			(xy 96.52 55.88) (xy 96.52 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "559d1fe7-b2f8-4931-a4d2-f33824a3d431")
+	)
+	(wire
+		(pts
+			(xy 210.82 19.05) (xy 210.82 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55e6d4bb-0df9-4f10-ac38-794c0d021246")
+	)
+	(wire
+		(pts
+			(xy 72.39 77.47) (xy 72.39 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57410eae-6d57-4005-a745-ba5b282b2e0b")
+	)
+	(wire
+		(pts
+			(xy 72.39 99.06) (xy 83.82 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57f766a3-f72f-4789-b1f0-73cf51e6b123")
+	)
+	(wire
+		(pts
+			(xy 193.04 163.83) (xy 193.04 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c036251-4858-4e6f-afc1-3c9e119f71ce")
+	)
+	(wire
+		(pts
+			(xy 193.04 119.38) (xy 204.47 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cb4f7a3-4e75-4b39-8a10-b495d012cbb1")
+	)
+	(wire
+		(pts
+			(xy 190.5 60.96) (xy 204.47 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d391197-835b-4a2c-ae72-6bff75694fda")
+	)
+	(wire
+		(pts
+			(xy 144.78 163.83) (xy 144.78 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e35fd7c-4f33-479c-9d82-6129a4e3396a")
+	)
+	(wire
+		(pts
+			(xy 229.87 22.86) (xy 229.87 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61596e5a-793f-42b7-8a16-502455689916")
+	)
+	(wire
+		(pts
+			(xy 190.5 29.21) (xy 168.91 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61a9ebdd-f4da-489d-b268-c0ad55e4b233")
+	)
+	(wire
+		(pts
+			(xy 72.39 55.88) (xy 83.82 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62ae13ee-9aa3-4364-98c8-113c5d908553")
+	)
+	(wire
+		(pts
+			(xy 72.39 185.42) (xy 83.82 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "639f5383-d454-4bb9-8240-86ccd2adbcbb")
+	)
+	(wire
+		(pts
+			(xy 69.85 146.05) (xy 83.82 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64701ed9-30bc-4893-8319-c3334703395b")
+	)
+	(wire
+		(pts
+			(xy 69.85 60.96) (xy 83.82 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65d7cfeb-0338-4feb-9ed6-9ac134e5c054")
+	)
+	(wire
+		(pts
+			(xy 120.65 55.88) (xy 120.65 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "664204ab-8276-4105-9bf7-c546fb707209")
+	)
+	(wire
+		(pts
+			(xy 45.72 190.5) (xy 59.69 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "669c938d-3414-4390-8d04-0a553817b23b")
+	)
+	(wire
+		(pts
+			(xy 118.11 146.05) (xy 132.08 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6af4864f-369c-4b48-bea5-352acd56b2d1")
+	)
+	(wire
+		(pts
+			(xy 118.11 104.14) (xy 132.08 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b2960c2-4f5c-44f5-bb1f-05e6e6192f1e")
+	)
+	(wire
+		(pts
+			(xy 120.65 163.83) (xy 132.08 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d2c2799-1dba-41a0-a3f1-28dd102509b3")
+	)
+	(wire
+		(pts
+			(xy 45.72 60.96) (xy 59.69 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e022530-ac57-473c-ae7b-aa3352124252")
+	)
+	(wire
+		(pts
+			(xy 118.11 39.37) (xy 132.08 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e36ef1c-6439-4172-87e1-5b4d042eaa5b")
+	)
+	(wire
+		(pts
+			(xy 45.72 168.91) (xy 59.69 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "728ec41d-ecff-4aa3-9a38-c7e1f86cd173")
+	)
+	(wire
+		(pts
+			(xy 144.78 140.97) (xy 156.21 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73328d64-3587-425b-95dc-38b74388594c")
+	)
+	(wire
+		(pts
+			(xy 198.12 19.05) (xy 198.12 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "737f8337-09d8-415f-9587-01a6e525ca27")
+	)
+	(wire
+		(pts
+			(xy 120.65 55.88) (xy 132.08 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "743b6de5-aad4-40b3-a156-a47fddaf4d02")
+	)
+	(wire
+		(pts
+			(xy 166.37 190.5) (xy 180.34 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "778dcbf6-4ce0-4015-bbd0-cd9d50cb15de")
+	)
+	(wire
+		(pts
+			(xy 69.85 124.46) (xy 83.82 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77c4f3e7-35f2-4f1e-89c2-794fcfc3634f")
+	)
+	(wire
+		(pts
+			(xy 96.52 55.88) (xy 107.95 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78731921-7c02-4b04-b8f6-db3c30f98afc")
+	)
+	(wire
+		(pts
+			(xy 69.85 39.37) (xy 83.82 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ad7e929-fca3-464e-9fe3-6629bab28172")
+	)
+	(wire
+		(pts
+			(xy 224.79 27.94) (xy 224.79 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cda709e-fba1-4edd-a920-248ae49c8c48")
+	)
+	(wire
+		(pts
+			(xy 69.85 82.55) (xy 83.82 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d15d5ee-4065-455f-929b-aa40b8dd702f")
+	)
+	(wire
+		(pts
+			(xy 45.72 39.37) (xy 59.69 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ff0e3cc-3e30-45b4-aa8c-5c4eae3e58ba")
+	)
+	(wire
+		(pts
+			(xy 144.78 77.47) (xy 144.78 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "821c19b8-0c2d-481e-b189-4ab2b29854d4")
+	)
+	(wire
+		(pts
+			(xy 190.5 39.37) (xy 204.47 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "838c1214-82bb-4cba-b796-db2d3adc7637")
+	)
+	(wire
+		(pts
+			(xy 187.96 19.05) (xy 187.96 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83bf974c-eaa2-4458-9f00-9c476ba14136")
+	)
+	(wire
+		(pts
+			(xy 96.52 185.42) (xy 96.52 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8442dff6-faf1-4b52-8882-8a5028d42f7b")
+	)
+	(wire
+		(pts
+			(xy 48.26 185.42) (xy 59.69 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85a200b8-3212-4c1e-a786-b9ab0f81c137")
+	)
+	(wire
+		(pts
+			(xy 223.52 60.96) (xy 214.63 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8605bd1d-c68a-4904-8bae-840fa98534e8")
+	)
+	(wire
+		(pts
+			(xy 72.39 140.97) (xy 83.82 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "874c4dc0-d311-4bcf-a88a-a9e559afb701")
+	)
+	(wire
+		(pts
+			(xy 227.33 25.4) (xy 227.33 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "886ee90b-4528-4309-934b-2ed35f23e130")
+	)
+	(wire
+		(pts
+			(xy 166.37 146.05) (xy 180.34 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a778a36-29d7-49f9-9eab-a3b5a016a401")
+	)
+	(wire
+		(pts
+			(xy 69.85 104.14) (xy 83.82 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ab1aae4-4b8d-488e-be5a-761c6fdb8b80")
+	)
+	(wire
+		(pts
+			(xy 96.52 25.4) (xy 96.52 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bddb4d2-015b-48ec-a501-84ef07f3265a")
+	)
+	(wire
+		(pts
+			(xy 228.6 24.13) (xy 208.28 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bfe98f6-73a9-4b96-9c49-9d20b18603be")
+	)
+	(wire
+		(pts
+			(xy 144.78 55.88) (xy 144.78 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c475a3f-a76b-47d9-8077-340f931ad365")
+	)
+	(wire
+		(pts
+			(xy 72.39 34.29) (xy 83.82 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e6587f0-3904-4a3f-b7db-9eb1942135fb")
+	)
+	(wire
+		(pts
+			(xy 222.25 39.37) (xy 222.25 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f61d1ee-8439-4341-94aa-16330010a335")
+	)
+	(wire
+		(pts
+			(xy 144.78 27.94) (xy 144.78 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ff5930c-5178-49b6-bd76-d9ca3f0d7412")
+	)
+	(wire
+		(pts
+			(xy 168.91 163.83) (xy 180.34 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90bd0f3c-d889-4ca9-a91e-d9c38941f1b6")
+	)
+	(wire
+		(pts
+			(xy 30.48 55.88) (xy 35.56 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91606e3a-e97c-4f3d-84c7-a127c7fc5d86")
+	)
+	(wire
+		(pts
+			(xy 193.04 119.38) (xy 193.04 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "916d3302-869c-48db-8f0f-53c09e5353df")
+	)
+	(wire
+		(pts
+			(xy 45.72 124.46) (xy 59.69 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93962684-db20-4db7-a46e-bf1a30ad0bd9")
+	)
+	(wire
+		(pts
+			(xy 30.48 163.83) (xy 35.56 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94e4e387-deaf-4c5a-adf2-f7f15e46375f")
+	)
+	(wire
+		(pts
+			(xy 214.63 146.05) (xy 228.6 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97d90228-ed72-4bc8-9cb0-75801e418eb6")
+	)
+	(wire
+		(pts
+			(xy 193.04 99.06) (xy 204.47 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "985b7648-5e34-46c4-9065-d0f60ef55d43")
+	)
+	(wire
+		(pts
+			(xy 144.78 77.47) (xy 156.21 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ba6b971-b214-4299-97f3-bc1fd44d1fa2")
+	)
+	(wire
+		(pts
+			(xy 93.98 82.55) (xy 107.95 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1469278-4be5-4195-8b8b-bd0f4f9777ae")
+	)
+	(wire
+		(pts
+			(xy 223.52 29.21) (xy 198.12 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a16192d6-1e90-4c7d-a51e-67de08e93336")
+	)
+	(wire
+		(pts
+			(xy 224.79 82.55) (xy 214.63 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1c0b36d-c3f2-459a-a5d9-03111ff36c52")
+	)
+	(wire
+		(pts
+			(xy 144.78 185.42) (xy 156.21 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2598c34-6217-4425-a7b1-c15da12b54e5")
+	)
+	(wire
+		(pts
+			(xy 168.91 185.42) (xy 168.91 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a30f627a-ede9-4759-9e10-c76df9d118bc")
+	)
+	(wire
+		(pts
+			(xy 96.52 119.38) (xy 96.52 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5244810-3f31-4987-9232-2e720b4219dc")
+	)
+	(wire
+		(pts
+			(xy 190.5 82.55) (xy 204.47 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a525383e-1bb0-4f78-9797-b864b8a45490")
+	)
+	(wire
+		(pts
+			(xy 120.65 26.67) (xy 120.65 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a610e577-6c81-4caa-b6fe-84bf1a80dae9")
+	)
+	(wire
+		(pts
+			(xy 48.26 77.47) (xy 48.26 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6d5f6bd-1954-46f8-8974-8205039be880")
+	)
+	(wire
+		(pts
+			(xy 72.39 119.38) (xy 72.39 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7a0f1f4-58d3-4090-afe8-6410bc01d801")
+	)
+	(wire
+		(pts
+			(xy 144.78 34.29) (xy 156.21 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8d822c0-d705-42ad-984f-5920bbf396e3")
+	)
+	(wire
+		(pts
+			(xy 48.26 22.86) (xy 48.26 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aaddf9dc-b5e0-44ec-9bfe-8f81127d113d")
+	)
+	(wire
+		(pts
+			(xy 168.91 34.29) (xy 180.34 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab6f1634-0da4-4c28-a08b-07a453e387fd")
+	)
+	(wire
+		(pts
+			(xy 30.48 21.59) (xy 175.26 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae038f42-a5cb-4dcc-90d4-db03887130c5")
+	)
+	(wire
+		(pts
+			(xy 72.39 55.88) (xy 72.39 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af20b375-4744-40b0-b5b9-e40a0d5f0160")
+	)
+	(wire
+		(pts
+			(xy 168.91 77.47) (xy 180.34 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afa4823a-5c5c-4fae-b7c4-db167a9eb02e")
+	)
+	(wire
+		(pts
+			(xy 226.06 26.67) (xy 203.2 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1112b0c-aca2-414b-a893-8d7525929c45")
+	)
+	(wire
+		(pts
+			(xy 48.26 163.83) (xy 48.26 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b16e0377-aa30-4f83-a5ce-754575eac41f")
+	)
+	(wire
+		(pts
+			(xy 118.11 60.96) (xy 132.08 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2924cdf-eed8-4692-9645-55f692274ea0")
+	)
+	(wire
+		(pts
+			(xy 200.66 19.05) (xy 200.66 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2c0284d-bf71-4f50-8d06-c3efb2d7b6ea")
+	)
+	(wire
+		(pts
+			(xy 118.11 124.46) (xy 132.08 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b413ad46-afe4-49ed-819f-7fb853676f19")
+	)
+	(wire
+		(pts
+			(xy 69.85 190.5) (xy 83.82 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b846cdbd-faee-4a04-ace5-4c3c109d6b0f")
+	)
+	(wire
+		(pts
+			(xy 193.04 99.06) (xy 193.04 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8ad3647-9e37-4ea6-9a23-1e274a552d7f")
+	)
+	(wire
+		(pts
+			(xy 96.52 77.47) (xy 107.95 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8dc8d22-83f0-403e-888f-9792afa24df3")
+	)
+	(wire
+		(pts
+			(xy 45.72 104.14) (xy 59.69 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9b1845c-dca6-4fce-a271-132c6bf1e521")
+	)
+	(wire
+		(pts
+			(xy 48.26 55.88) (xy 48.26 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba10804d-9f6d-4cc6-9ff5-694b6e5f0b8d")
+	)
+	(wire
+		(pts
+			(xy 168.91 99.06) (xy 180.34 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba16600b-e6e9-4b13-8f4f-bd602f90da8d")
+	)
+	(wire
+		(pts
+			(xy 166.37 124.46) (xy 180.34 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbe4f926-8a92-4bd1-880f-a00594a910fa")
+	)
+	(wire
+		(pts
+			(xy 193.04 19.05) (xy 193.04 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd03c5d3-b8ba-428b-a323-69bdc7e064b1")
+	)
+	(wire
+		(pts
+			(xy 224.79 27.94) (xy 200.66 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be888010-53dc-40c1-bd4e-105f09136634")
+	)
+	(wire
+		(pts
+			(xy 48.26 99.06) (xy 48.26 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c094ffbd-59e9-4d04-9f6e-b620a1d13816")
+	)
+	(wire
+		(pts
+			(xy 144.78 185.42) (xy 144.78 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c184ad24-52ea-4f4b-9660-7d46e6aa5140")
+	)
+	(wire
+		(pts
+			(xy 30.48 34.29) (xy 30.48 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c295cfdc-627d-4ab9-84ca-849a338c6ddd")
+	)
+	(wire
+		(pts
+			(xy 226.06 104.14) (xy 214.63 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2be202a-4a19-4006-b997-3a5c0af68c98")
+	)
+	(wire
+		(pts
+			(xy 48.26 163.83) (xy 59.69 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c387d565-d109-4bdb-adc4-fbb39e39015a")
+	)
+	(wire
+		(pts
+			(xy 190.5 124.46) (xy 204.47 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3a62037-6382-4040-b2f4-233ee8bafe55")
+	)
+	(wire
+		(pts
+			(xy 120.65 185.42) (xy 120.65 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c789f8bd-931c-4a6c-afc2-36f248afbbaf")
+	)
+	(wire
+		(pts
+			(xy 168.91 55.88) (xy 180.34 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb63ee39-75ef-487f-969d-efe6a6f8ce54")
+	)
+	(wire
+		(pts
+			(xy 223.52 29.21) (xy 223.52 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb8f4612-a6f7-4e53-b7cc-ca6cd27d7c4a")
+	)
+	(wire
+		(pts
+			(xy 120.65 77.47) (xy 120.65 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc20bc0e-b315-442d-8815-ae44d7f4614d")
+	)
+	(wire
+		(pts
+			(xy 72.39 185.42) (xy 72.39 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf0b001e-eb9f-42b8-96d8-c35b0c1709df")
+	)
+	(wire
+		(pts
+			(xy 182.88 25.4) (xy 96.52 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfc03c44-e829-4bf4-9e0e-14161463bdf8")
+	)
+	(wire
+		(pts
+			(xy 48.26 140.97) (xy 48.26 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d029f7db-72ad-4b0c-ab64-10519b436b1b")
+	)
+	(wire
+		(pts
+			(xy 120.65 185.42) (xy 132.08 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d06cdfc9-92ec-4be6-9865-8c5828dcdd5d")
+	)
+	(wire
+		(pts
+			(xy 48.26 119.38) (xy 59.69 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d261c3ef-b9d3-45c4-baf0-f68596778cb0")
+	)
+	(wire
+		(pts
+			(xy 93.98 146.05) (xy 107.95 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2b5e5bd-71bc-4854-bf07-a892ce68f6ea")
+	)
+	(wire
+		(pts
+			(xy 142.24 39.37) (xy 156.21 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5869014-4214-4209-9b2d-078a10e060f4")
+	)
+	(wire
+		(pts
+			(xy 35.56 140.97) (xy 30.48 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6accfcd-9f19-4aff-ae3e-831978ca553e")
+	)
+	(wire
+		(pts
+			(xy 190.5 19.05) (xy 190.5 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d97a0b59-4d98-4725-9b54-cf3ef81f1b91")
+	)
+	(wire
+		(pts
+			(xy 120.65 99.06) (xy 132.08 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcefd1f6-dedb-4a2a-bbaa-852456c7e3b8")
+	)
+	(wire
+		(pts
+			(xy 144.78 119.38) (xy 144.78 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd007b1f-a9f1-41dc-8ffe-8cc0760caa25")
+	)
+	(wire
+		(pts
+			(xy 168.91 140.97) (xy 168.91 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de45be53-f8a4-45bd-82a4-4f47220729e1")
+	)
+	(wire
+		(pts
+			(xy 142.24 82.55) (xy 156.21 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de499c0c-460e-41f9-bde4-be4c529944ab")
+	)
+	(wire
+		(pts
+			(xy 142.24 190.5) (xy 156.21 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de6d4954-367e-430d-9761-93cc1c5f563d")
+	)
+	(wire
+		(pts
+			(xy 185.42 19.05) (xy 185.42 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e114b0df-abb6-4ff8-8e7e-454652dd1c60")
+	)
+	(wire
+		(pts
+			(xy 175.26 21.59) (xy 175.26 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e131d351-11cd-4fa0-bc99-80c565b64b94")
+	)
+	(wire
+		(pts
+			(xy 213.36 21.59) (xy 231.14 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2c6e082-731b-4ea2-81a8-295653d2a7e4")
+	)
+	(wire
+		(pts
+			(xy 166.37 168.91) (xy 180.34 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2d66998-cff7-4d32-91a5-de4267cb416d")
+	)
+	(wire
+		(pts
+			(xy 72.39 24.13) (xy 72.39 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3878431-aab2-4e9b-816d-d93ab5f162ba")
+	)
+	(wire
+		(pts
+			(xy 193.04 185.42) (xy 204.47 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e56c556d-b8ba-4dfb-948f-78d107d1862d")
+	)
+	(wire
+		(pts
+			(xy 30.48 34.29) (xy 35.56 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5b40cca-9884-4596-ad03-f237a8dc95d0")
+	)
+	(wire
+		(pts
+			(xy 48.26 77.47) (xy 59.69 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e61cc589-8e20-4651-ab50-250b91988aa0")
+	)
+	(wire
+		(pts
+			(xy 96.52 163.83) (xy 107.95 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6388933-98f3-4ff2-88a9-7af97d3b318d")
+	)
+	(wire
+		(pts
+			(xy 120.65 99.06) (xy 120.65 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e82987cc-7637-423a-9a38-349a74cebcd3")
+	)
+	(wire
+		(pts
+			(xy 214.63 39.37) (xy 222.25 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8b1de4e-0ddf-4309-8334-41cc222fc82f")
+	)
+	(wire
+		(pts
+			(xy 185.42 26.67) (xy 120.65 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb05f210-02b0-4cbe-8720-a4b05b4f2202")
+	)
+	(wire
+		(pts
+			(xy 168.91 55.88) (xy 168.91 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed72c9ec-5edb-490b-98ef-dbb2389eb92c")
+	)
+	(wire
+		(pts
+			(xy 120.65 34.29) (xy 132.08 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee6af140-919c-4a15-90a3-e6fb3127a3e0")
+	)
+	(wire
+		(pts
+			(xy 190.5 146.05) (xy 204.47 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efa3fc73-d81e-40da-a9cb-9cdb8176c542")
+	)
+	(wire
+		(pts
+			(xy 144.78 55.88) (xy 156.21 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f085c834-21ca-43ae-b4a5-a011d1553dfd")
+	)
+	(wire
+		(pts
+			(xy 168.91 185.42) (xy 180.34 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0d4802a-cd26-40ca-a3ef-a206c6f20c1d")
+	)
+	(wire
+		(pts
+			(xy 193.04 55.88) (xy 193.04 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f222b1b2-f728-4111-b743-070e82648730")
+	)
+	(wire
+		(pts
+			(xy 72.39 163.83) (xy 72.39 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3483958-c361-485a-b3cc-0abe05e2c6da")
+	)
+	(wire
+		(pts
+			(xy 96.52 140.97) (xy 107.95 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3f766ea-b55e-4e35-995e-7ea1d0f5ec00")
+	)
+	(wire
+		(pts
+			(xy 30.48 185.42) (xy 35.56 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f53d26af-e053-4eee-a63d-015f584916a6")
+	)
+	(wire
+		(pts
+			(xy 30.48 55.88) (xy 30.48 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5533d1f-f2e4-4ed5-b52d-7d83e87eba3d")
+	)
+	(wire
+		(pts
+			(xy 229.87 168.91) (xy 214.63 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f59b778b-0a6b-487d-8374-7307d16a6dfb")
+	)
+	(wire
+		(pts
+			(xy 227.33 25.4) (xy 205.74 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6cdc652-cc3e-42b2-9e9e-a611c8f79641")
+	)
+	(wire
+		(pts
+			(xy 96.52 140.97) (xy 96.52 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7655e80-7d31-4891-8bd6-14e03f3e7b29")
+	)
+	(wire
+		(pts
+			(xy 30.48 21.59) (xy 30.48 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8c2d517-72dc-431c-a841-985c6b1ca0cc")
+	)
+	(wire
+		(pts
+			(xy 96.52 119.38) (xy 107.95 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9147f63-99bc-4415-856f-811a1320d4eb")
+	)
+	(wire
+		(pts
+			(xy 144.78 163.83) (xy 156.21 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb49461f-f572-47d4-8cff-a19dbed9f45e")
+	)
+	(wire
+		(pts
+			(xy 48.26 34.29) (xy 59.69 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc8034e4-db96-4859-bf24-2c70b0319cbb")
+	)
+	(wire
+		(pts
+			(xy 72.39 163.83) (xy 83.82 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcb8d388-53e2-46ac-bbe6-fa20bbff7239")
+	)
+	(wire
+		(pts
+			(xy 229.87 22.86) (xy 210.82 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd3ea11e-7590-4e6e-9a28-5fd9246dccf3")
+	)
+	(wire
+		(pts
+			(xy 72.39 77.47) (xy 83.82 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff00e572-4324-4c5d-b388-e1cdef48a348")
+	)
+	(wire
+		(pts
+			(xy 30.48 99.06) (xy 35.56 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff2167df-4863-4797-b0a0-9a3ef6304a79")
+	)
+	(wire
+		(pts
+			(xy 180.34 24.13) (xy 72.39 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff6312e5-1763-4b21-ac89-25c922ef83c4")
+	)
+	(wire
+		(pts
+			(xy 203.2 19.05) (xy 203.2 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffac34ff-59fe-43da-af8f-28f04eae356b")
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 88.9 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0025a9e2-72d5-4543-8fd7-eabcd9c94b70")
+		(property "Reference" "SW41"
+			(at 88.9 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 88.9 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 88.9 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 88.9 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3f36c143-fe7a-4fa5-9ca7-cab17d8e5934")
+		)
+		(pin "3"
+			(uuid "37f7d91f-d80b-49cc-8fb2-081e25941d52")
+		)
+		(pin "1"
+			(uuid "b512db06-9105-4710-915a-86912fd1eaa1")
+		)
+		(pin "4"
+			(uuid "cb20e7ee-9b50-4d79-b5ab-3f0988f32df6")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 40.64 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "04d4a756-1447-4afe-ab49-169e9df250f9")
+		(property "Reference" "SW58"
+			(at 40.64 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 40.64 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 40.64 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 40.64 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a2c38b75-bfac-45d3-b30e-fda22481a612")
+		)
+		(pin "3"
+			(uuid "33180633-9521-44d3-8905-5d4543988da0")
+		)
+		(pin "1"
+			(uuid "2f4e7dc0-d51a-48c5-97a4-dfdbb87b8212")
+		)
+		(pin "4"
+			(uuid "56c067ba-2057-4da8-9844-fcf79b5cdff2")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 40.64 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "07230bce-b7a3-46c7-aa7c-db839639097b")
+		(property "Reference" "SW62"
+			(at 40.64 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 40.64 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 40.64 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 40.64 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3652ba88-4a07-448c-b43a-7860313b1a4b")
+		)
+		(pin "3"
+			(uuid "e296b914-fa1e-4370-8030-661f975b6db2")
+		)
+		(pin "1"
+			(uuid "641f740d-10c2-4848-a9cf-8cba0604888e")
+		)
+		(pin "4"
+			(uuid "aef08064-61dc-490e-8a64-e83eade8905a")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 40.64 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0873e90f-c9cf-4658-b2fa-e5d354b0bec7")
+		(property "Reference" "SW59"
+			(at 40.64 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 40.64 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 40.64 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 40.64 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5dfd9182-9898-4037-aa73-cb4ec25f8e04")
+		)
+		(pin "3"
+			(uuid "dd380ece-4068-44e0-afc7-66e8f2b091bf")
+		)
+		(pin "1"
+			(uuid "cb47aa4d-87c8-4f84-aeda-a5743aafe755")
+		)
+		(pin "4"
+			(uuid "51ea229f-f65d-4b4d-ab48-0c9dcda613d2")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 113.03 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0ac1b5b1-3dbb-437f-98f3-54ab36cb5ed8")
+		(property "Reference" "SW37"
+			(at 113.03 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 113.03 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 113.03 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 113.03 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7976c502-a734-4819-b595-b4fd3d94debe")
+		)
+		(pin "3"
+			(uuid "44d15c3d-b61b-49fe-81e0-4fc3724d07ac")
+		)
+		(pin "1"
+			(uuid "3b1ba2a7-96cf-4313-9ac5-c6112c2eb2e5")
+		)
+		(pin "4"
+			(uuid "4be34360-983b-42d6-aa62-a870cfc04ca9")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 113.03 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1bbb962d-ee6c-4021-abff-f602b5f8eee9")
+		(property "Reference" "SW39"
+			(at 113.03 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 113.03 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 113.03 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 113.03 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7c15070e-f97d-4dfb-8418-7eaf86dfc0d9")
+		)
+		(pin "3"
+			(uuid "edf9da03-02df-4780-afee-5386f628071c")
+		)
+		(pin "1"
+			(uuid "339ebe9e-01ee-4bb0-99a5-32ba99e22b14")
+		)
+		(pin "4"
+			(uuid "369e4a36-340c-49c1-8a69-5aa95087b386")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 64.77 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "23dda153-8316-4336-b337-0a7b20afdafa")
+		(property "Reference" "SW53"
+			(at 64.77 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 64.77 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 64.77 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 64.77 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0ad8753b-5aed-441f-9bc2-53b51483bbfd")
+		)
+		(pin "3"
+			(uuid "bf3a8e06-22cc-4167-b612-b8f15ffe31a7")
+		)
+		(pin "1"
+			(uuid "1456fae9-0c76-466e-99cb-c9579f7e35ed")
+		)
+		(pin "4"
+			(uuid "9c603aa2-690d-46ed-be9b-cbc2ea53e6bc")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 88.9 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2d05e915-451d-4a99-918f-a8a8fa5c0f5d")
+		(property "Reference" "SW47"
+			(at 88.9 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 88.9 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 88.9 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 88.9 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cdb9720e-da53-45a1-9bfb-75463dcec492")
+		)
+		(pin "3"
+			(uuid "a4bf9cd2-de08-4773-a2f5-7cca7848b54d")
+		)
+		(pin "1"
+			(uuid "296dfa5c-c982-47ce-ba04-b1f5ca0c6efb")
+		)
+		(pin "4"
+			(uuid "09f7620f-a8c2-4786-a5f0-b6ab8eb12286")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 161.29 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2dcaa09d-d023-4efb-ba7b-bc4c60362445")
+		(property "Reference" "SW20"
+			(at 161.29 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 161.29 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 161.29 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 161.29 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3753c8b4-acb7-4bd6-bbc6-1f38f4bf4ebe")
+		)
+		(pin "3"
+			(uuid "11cc21e9-e32c-41b4-8c6e-5ab9162d19a8")
+		)
+		(pin "1"
+			(uuid "07aad860-d8a5-4a52-a29e-8fd672c18f14")
+		)
+		(pin "4"
+			(uuid "81291e5f-9b12-46f7-be31-c0b87be33074")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 64.77 187.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "329119bc-03cc-4021-b6f0-40b2c4dd094d")
+		(property "Reference" "SW56"
+			(at 64.77 177.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 64.77 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 64.77 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 64.77 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "659b6d30-80c8-4958-b5da-65c3d5cd486c")
+		)
+		(pin "3"
+			(uuid "97fe8fc0-1757-4e19-a2cc-dde6d9620528")
+		)
+		(pin "1"
+			(uuid "ca5f727d-cf87-474f-9618-0d44a838063a")
+		)
+		(pin "4"
+			(uuid "bb9e3330-5ead-4de9-80cf-6dca604b0ad0")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 209.55 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "32fed2f3-28bc-4eca-b8f8-cc47c5ef2069")
+		(property "Reference" "SW1"
+			(at 209.55 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 209.55 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0454f3dd-4f4f-485c-b585-1320cf093e5a")
+		)
+		(pin "3"
+			(uuid "a235bf91-960e-4a4a-bc0f-b4a4d75cc985")
+		)
+		(pin "1"
+			(uuid "4bf2559c-4cf0-4224-94e6-c9e04ed57071")
+		)
+		(pin "4"
+			(uuid "b80eb1ec-db49-456d-ab10-f5c2f546a30b")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 64.77 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3886c9b9-d685-4c2e-84da-e1d5ffb113f0")
+		(property "Reference" "SW52"
+			(at 64.77 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 64.77 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 64.77 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 64.77 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a8af5714-42d0-4991-ac3b-683340502d07")
+		)
+		(pin "3"
+			(uuid "8a5d81d9-187d-473d-8ec4-66e66e68645d")
+		)
+		(pin "1"
+			(uuid "ddff97d4-9873-42a7-beee-1107f6bbe872")
+		)
+		(pin "4"
+			(uuid "9ec0eab6-536b-43d9-86ab-b3c7d8489a66")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 113.03 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3b8db4e2-406f-4e39-a481-8604d0ab3e4f")
+		(property "Reference" "SW34"
+			(at 113.03 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 113.03 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 113.03 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 113.03 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3d6b15c5-f0fe-4481-914f-bc07d9fb6695")
+		)
+		(pin "3"
+			(uuid "cf5c113f-539d-40a7-8e1a-0c9c465274a5")
+		)
+		(pin "1"
+			(uuid "279b82b3-93df-4ac1-a978-3925e08a6aa7")
+		)
+		(pin "4"
+			(uuid "ae92797c-acb3-4631-8e71-4fa9b53c6637")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 137.16 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3d9f0d4b-ca1a-4272-9527-33184c1bebd1")
+		(property "Reference" "SW31"
+			(at 137.16 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 137.16 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 137.16 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 137.16 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ab8ba047-80ee-471a-9062-41305ce22cca")
+		)
+		(pin "3"
+			(uuid "bb751fd0-0ae1-467d-8c02-e47eb0973916")
+		)
+		(pin "1"
+			(uuid "63f60352-cd4b-4c6e-bbad-85b6166cc403")
+		)
+		(pin "4"
+			(uuid "54dbb9d8-a1a4-4f3d-b304-dbdfcc92cecb")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 161.29 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "47afa672-e47c-49e6-b638-fa5385d11e91")
+		(property "Reference" "SW18"
+			(at 161.29 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 161.29 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 161.29 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 161.29 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f21f8d34-8b88-4a25-8379-780a71798452")
+		)
+		(pin "3"
+			(uuid "1f131d94-d447-4486-bd62-f441d107eb07")
+		)
+		(pin "1"
+			(uuid "4108ec0c-e751-4476-9f94-a02cd53a56f7")
+		)
+		(pin "4"
+			(uuid "4d863580-b450-4e06-bfed-7dfe2f2661cd")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 88.9 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "48df7a33-5ff3-4e83-9b5c-7d7e129cbf82")
+		(property "Reference" "SW46"
+			(at 88.9 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 88.9 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 88.9 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 88.9 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6f62b597-dc62-480a-8f9b-0b9c0987b426")
+		)
+		(pin "3"
+			(uuid "0176414b-2251-44f6-9c87-c5098b87c266")
+		)
+		(pin "1"
+			(uuid "c112b204-6a20-464d-8556-6e6672da803f")
+		)
+		(pin "4"
+			(uuid "680cff78-6760-42ba-bc96-ac44c3495c0e")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 185.42 187.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "511a2974-ae4a-4c4d-b06c-11c95cda3408")
+		(property "Reference" "SW16"
+			(at 185.42 177.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 185.42 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 185.42 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 185.42 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "97cd631e-f418-4b21-a4b8-dbaf3a1427c8")
+		)
+		(pin "3"
+			(uuid "50a69f66-01ad-4b19-8ffe-2323ad691f92")
+		)
+		(pin "1"
+			(uuid "46a08174-e10f-4423-9824-f4396daacee5")
+		)
+		(pin "4"
+			(uuid "494c89b4-a628-4bdb-b91e-e5ec98fcf58c")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 161.29 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5184fd2b-183e-4061-9d56-177d7988d814")
+		(property "Reference" "SW17"
+			(at 161.29 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 161.29 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 161.29 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 161.29 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a275fb2e-5367-4464-a4e0-db1fed55a977")
+		)
+		(pin "3"
+			(uuid "68a030f6-af13-442b-91e4-b24ebcbb68e2")
+		)
+		(pin "1"
+			(uuid "ee39552a-a88a-4025-8822-3ebed2c4d041")
+		)
+		(pin "4"
+			(uuid "6f70c227-25b4-426c-99e7-86ff9abe1325")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 64.77 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "54a55d97-8780-4d93-873d-2a75c7bb0f20")
+		(property "Reference" "SW55"
+			(at 64.77 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 64.77 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 64.77 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 64.77 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "32bf7852-9e6d-4cd4-a2fb-1b95495ee848")
+		)
+		(pin "3"
+			(uuid "b9961063-8bde-42fc-945f-10128642b481")
+		)
+		(pin "1"
+			(uuid "7452d4c7-c373-4f15-9d09-93c53bd5fedf")
+		)
+		(pin "4"
+			(uuid "6fcd2514-c559-48a7-a1b9-195dc9f33111")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 209.55 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5568d3ec-ecb0-401c-8052-3227131f7e99")
+		(property "Reference" "SW6"
+			(at 209.55 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 209.55 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 209.55 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 209.55 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "756a4c38-54fe-4cae-b1f1-527f111ca925")
+		)
+		(pin "3"
+			(uuid "564e8c9e-5b94-41a3-a31f-f211ac094e82")
+		)
+		(pin "1"
+			(uuid "7c4cd4c0-5f45-4b26-a2f1-95b93984495a")
+		)
+		(pin "4"
+			(uuid "cb08c1dc-6b84-4d24-a12d-2d24e76328f0")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 161.29 187.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "556a38a7-8702-45c4-b50f-49757c7e0f57")
+		(property "Reference" "SW24"
+			(at 161.29 177.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 161.29 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 161.29 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 161.29 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "651a90c2-db59-4e7e-be72-bac4d57ab269")
+		)
+		(pin "3"
+			(uuid "41546530-5c42-4e38-a064-f92123fae3f9")
+		)
+		(pin "1"
+			(uuid "b508e440-1377-4f86-8e4e-a733017e8f96")
+		)
+		(pin "4"
+			(uuid "7da94f23-b1fc-4706-86e2-b42298c9bfc6")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 137.16 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "560e5744-f650-4c08-91e9-28c52e29de37")
+		(property "Reference" "SW28"
+			(at 137.16 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 137.16 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 137.16 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 137.16 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "30dc9ae2-861d-45fa-896b-97e5d258ad06")
+		)
+		(pin "3"
+			(uuid "13f70e06-8e9e-4a0d-b692-d265ec8e43be")
+		)
+		(pin "1"
+			(uuid "7b330cd6-c262-4026-8aa8-9ddde5ea5be0")
+		)
+		(pin "4"
+			(uuid "4b19a724-dde1-4382-991d-6e44114903f7")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 88.9 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "565c852d-205f-4378-b686-d1e6ade1c09d")
+		(property "Reference" "SW42"
+			(at 88.9 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 88.9 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 88.9 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 88.9 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3a905413-b3f4-4dcb-9d86-76cc2bde5bb7")
+		)
+		(pin "3"
+			(uuid "4b62551a-b091-47ea-ad9e-fe08d68c920b")
+		)
+		(pin "1"
+			(uuid "be6d3c73-a446-4fbf-b0ff-bb0938aa86e7")
+		)
+		(pin "4"
+			(uuid "cea663bd-4af9-40ce-a7f1-45e53ec8527a")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 185.42 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5845177f-28a1-45dc-8309-522353102dc2")
+		(property "Reference" "SW15"
+			(at 185.42 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 185.42 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 185.42 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 185.42 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a7c4bf7a-88a2-4041-b9fb-ebdcf12505b7")
+		)
+		(pin "3"
+			(uuid "0d3e10ef-e856-49a1-b9a1-733702d0e15e")
+		)
+		(pin "1"
+			(uuid "95d9371f-4f96-461a-9614-5f6aa58cb6aa")
+		)
+		(pin "4"
+			(uuid "f341c76f-82ca-4a6f-955e-3840a80a1dc6")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 40.64 187.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "62374ecb-9cb8-4919-9734-401834bac753")
+		(property "Reference" "SW64"
+			(at 40.64 177.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 40.64 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 40.64 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 40.64 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f5a11af4-57d5-46e5-9f64-9f0017c285ed")
+		)
+		(pin "3"
+			(uuid "ff84b626-7466-4f86-b4b7-ad815a337504")
+		)
+		(pin "1"
+			(uuid "134291cb-4a93-4f8a-a88e-e47bfcb11cdd")
+		)
+		(pin "4"
+			(uuid "69c00390-eae7-4579-9dd7-e1eb880d3b89")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 209.55 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "62a52460-9d8d-4384-994b-f2308002069a")
+		(property "Reference" "SW4"
+			(at 209.55 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 209.55 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 209.55 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 209.55 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "32da3f37-4e0c-45ab-9502-752cfd1520c2")
+		)
+		(pin "3"
+			(uuid "d72b3b46-2711-4c5e-8e75-0ef0ca65c204")
+		)
+		(pin "1"
+			(uuid "73a510da-d4d2-49e8-88f8-520b1b4c6d73")
+		)
+		(pin "4"
+			(uuid "986a4c89-b35f-4bbb-b89e-61523f2f2dbf")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 185.42 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6ded3c4c-ab50-40c2-8026-05e24a36ad9c")
+		(property "Reference" "SW13"
+			(at 185.42 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 185.42 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 185.42 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 185.42 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b45ff85f-a129-4402-9427-89b7bd07e4c8")
+		)
+		(pin "3"
+			(uuid "b83c1c2f-2f11-43b7-a5ce-9a4c6934feb2")
+		)
+		(pin "1"
+			(uuid "955effd3-8313-4d9f-8b8b-9bf287aa962d")
+		)
+		(pin "4"
+			(uuid "458fb750-c774-4a42-8abc-eeb4c4edc184")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 113.03 187.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "70faa5ac-bb46-40c3-a70e-7496345e6775")
+		(property "Reference" "SW40"
+			(at 113.03 177.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 113.03 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 113.03 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 113.03 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8b1e6006-6e8f-4055-9078-a589b9b32498")
+		)
+		(pin "3"
+			(uuid "22881cfd-cab2-4f2e-9794-8db810eabba7")
+		)
+		(pin "1"
+			(uuid "1e5db685-dfe8-4a16-960d-9974733c86b1")
+		)
+		(pin "4"
+			(uuid "2dc04953-4ee5-481c-8485-8c75d5af5e14")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 113.03 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "79a3a795-a0c5-4b1d-98a1-9ccb0c648c3a")
+		(property "Reference" "SW33"
+			(at 113.03 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 113.03 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 113.03 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 113.03 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ddddc322-aee3-492b-ad03-467a1eaa39bf")
+		)
+		(pin "3"
+			(uuid "0633fd60-00b7-441b-8acd-937b16df0af3")
+		)
+		(pin "1"
+			(uuid "4a09490a-550a-47a6-aaf5-c43157cfc9ea")
+		)
+		(pin "4"
+			(uuid "b080c835-a5cc-400b-aabf-881741837308")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 40.64 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "79cb1f06-771d-476c-b99f-fbb9937a3c61")
+		(property "Reference" "SW61"
+			(at 40.64 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 40.64 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 40.64 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 40.64 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "605173a4-2ec3-417c-98d5-80d2be079251")
+		)
+		(pin "3"
+			(uuid "9ce873d7-ee1b-476f-931d-4a6267dab6b2")
+		)
+		(pin "1"
+			(uuid "ad000550-dd39-4049-8770-070caea9c10c")
+		)
+		(pin "4"
+			(uuid "26455255-7950-4d6e-b9aa-2e12f4b0f05d")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 209.55 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8326543f-96e0-44d0-9281-925e62765344")
+		(property "Reference" "SW5"
+			(at 209.55 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 209.55 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 209.55 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 209.55 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5673642f-1f1a-48a6-9ea4-dc049f1572ab")
+		)
+		(pin "3"
+			(uuid "7c55c656-5fc9-4a24-98d2-250caac69e99")
+		)
+		(pin "1"
+			(uuid "8033a586-97f4-4209-882c-2feb5e7f649a")
+		)
+		(pin "4"
+			(uuid "91ffc389-8c5b-4d7d-9751-082f1073cf4f")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 64.77 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8ab0d06f-2099-458e-bded-5012947f0e28")
+		(property "Reference" "SW50"
+			(at 64.77 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 64.77 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 64.77 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 64.77 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "24804bad-b5fa-4362-abc2-24e55aeb49a0")
+		)
+		(pin "3"
+			(uuid "2d146c86-30a9-4cee-adbc-31f8bfbd2c1a")
+		)
+		(pin "1"
+			(uuid "e759a4dc-ace6-45d5-b9a0-70d96cf0352b")
+		)
+		(pin "4"
+			(uuid "cd923cc0-004c-4fe4-98ea-dce88fc2bab7")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x16_Socket")
+		(at 193.04 13.97 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9264849f-c315-467b-9a92-49c99911346e")
+		(property "Reference" "J1"
+			(at 194.31 8.89 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x16_Socket"
+			(at 194.31 11.43 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical"
+			(at 193.04 13.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 13.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x16, script generated"
+			(at 193.04 13.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "cea90938-fe95-45c2-b8c3-a3e4765fb8c0")
+		)
+		(pin "8"
+			(uuid "caf9e5dd-0bf4-4dcb-a696-5999abaea83a")
+		)
+		(pin "13"
+			(uuid "7439f813-6ec2-49e0-8189-e93ce1e496ed")
+		)
+		(pin "6"
+			(uuid "4e3b2131-13ca-4876-b12b-66d139202bec")
+		)
+		(pin "3"
+			(uuid "24a774ad-a767-49c1-bd4b-ee6bdda971c4")
+		)
+		(pin "12"
+			(uuid "65b04479-b1e9-4a18-ace5-7119f557c2be")
+		)
+		(pin "10"
+			(uuid "a4e8e801-912d-41a6-ae66-f9f43487ab52")
+		)
+		(pin "14"
+			(uuid "eadd4e60-bdd8-45e7-bb82-3c7b77f5d2de")
+		)
+		(pin "9"
+			(uuid "963be6d6-9685-4b18-ad10-352a7414ca49")
+		)
+		(pin "1"
+			(uuid "fdfd11a9-1389-4db3-9044-a25525297fbf")
+		)
+		(pin "2"
+			(uuid "92f7c34a-c79a-42e8-8ee2-6c93cfdea9fe")
+		)
+		(pin "4"
+			(uuid "e6240b24-8f30-4cb0-b6c8-60421a27eb77")
+		)
+		(pin "7"
+			(uuid "c74c9d26-2e80-4177-9625-3fbc18db8208")
+		)
+		(pin "11"
+			(uuid "d079ed82-ca7f-4b4f-9feb-cd257f0869a4")
+		)
+		(pin "15"
+			(uuid "f713dc6e-90b9-401d-befa-2d4e6d2e9342")
+		)
+		(pin "16"
+			(uuid "23b2705d-cd61-4813-8bca-5c52176eea9d")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 209.55 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "951a2481-80b8-4a61-aba1-e860f6702dbd")
+		(property "Reference" "SW7"
+			(at 209.55 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 209.55 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 209.55 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 209.55 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "23074c84-ecaa-4765-8621-13ae21c8bc9c")
+		)
+		(pin "3"
+			(uuid "b995f6c9-72be-4565-896d-9e1d4983bfa6")
+		)
+		(pin "1"
+			(uuid "931bcdca-9156-4d32-9dac-6293e9896eaf")
+		)
+		(pin "4"
+			(uuid "bea94347-bfa8-4b7a-920b-fd6c5b76d630")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 64.77 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "97d8efb8-d787-4844-b2c4-9d7b1a80a066")
+		(property "Reference" "SW54"
+			(at 64.77 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 64.77 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 64.77 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 64.77 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5ce866bc-92c1-403e-a49c-9d368eb2dcae")
+		)
+		(pin "3"
+			(uuid "4bdc2574-5c34-4e31-9991-025ad9f7dedc")
+		)
+		(pin "1"
+			(uuid "cf78e092-31a9-457b-8e68-89a0645e4a9c")
+		)
+		(pin "4"
+			(uuid "fd67a175-3898-4ca4-a43b-7b3826fe9d49")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 137.16 187.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a575d0b2-28c1-4acf-b694-4b8c4886322b")
+		(property "Reference" "SW32"
+			(at 137.16 177.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 137.16 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 137.16 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 137.16 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d40cc922-a907-42e1-a330-2c3863998810")
+		)
+		(pin "3"
+			(uuid "a61501b7-8b89-4d54-a2b8-1b7cd9bc5f48")
+		)
+		(pin "1"
+			(uuid "f591f437-4037-4d63-902d-60d32e6f3ab9")
+		)
+		(pin "4"
+			(uuid "83edd9bf-402c-4806-9c43-30c0e5e562eb")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 137.16 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b2f2dca1-64dc-40be-864f-65b2c1911816")
+		(property "Reference" "SW29"
+			(at 137.16 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 137.16 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 137.16 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 137.16 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7503e3ac-0488-4630-ab0a-40df6dae96da")
+		)
+		(pin "3"
+			(uuid "b3d1c8f5-03fa-49f0-abbd-f07be0797c49")
+		)
+		(pin "1"
+			(uuid "5c93d653-af3d-4920-9969-2488b5eb7396")
+		)
+		(pin "4"
+			(uuid "9e088968-ac12-49c4-98b7-a07dd855d1cf")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 40.64 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b5bc6db2-24e7-4077-8f0b-b5b68c40a5d9")
+		(property "Reference" "SW63"
+			(at 40.64 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 40.64 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 40.64 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 40.64 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0e1da32a-0b53-4d67-8396-23072073bed0")
+		)
+		(pin "3"
+			(uuid "fdc9cd07-769e-4b08-8a9b-674c527c90a7")
+		)
+		(pin "1"
+			(uuid "9d8d7b32-72c2-4287-84d8-354a1e9dab8a")
+		)
+		(pin "4"
+			(uuid "7f391d61-2f8d-451e-a506-ba61bec12b2a")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 137.16 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b64e9120-72eb-4184-b22f-b6684c7b9f9b")
+		(property "Reference" "SW27"
+			(at 137.16 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 137.16 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 137.16 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 137.16 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "03ee8fcd-c043-46e7-9259-c17416207c22")
+		)
+		(pin "3"
+			(uuid "c06f95ee-da5e-45b2-b555-0c1ff24dceea")
+		)
+		(pin "1"
+			(uuid "32d9881c-f8d6-49e5-92f9-91800858b7da")
+		)
+		(pin "4"
+			(uuid "7cdd13a0-349a-4d43-a978-b2223065be9f")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 161.29 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bd7a50c8-1f71-4393-8f96-b6bde540da96")
+		(property "Reference" "SW19"
+			(at 161.29 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 161.29 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 161.29 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 161.29 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "af7adb51-05a2-4dd0-b2df-3279f89e3441")
+		)
+		(pin "3"
+			(uuid "b6e62463-e0aa-4452-9047-7182c75bf742")
+		)
+		(pin "1"
+			(uuid "231aec96-1022-4ef6-bc58-21e9e2fe7b84")
+		)
+		(pin "4"
+			(uuid "b6262c2f-a649-4028-83d3-a1e6094c1314")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 64.77 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bf6cc7b5-574d-4c1c-8d0f-9499c37d0b1a")
+		(property "Reference" "SW51"
+			(at 64.77 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 64.77 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 64.77 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 64.77 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "28015098-a6f3-479f-acad-c69582bd40b5")
+		)
+		(pin "3"
+			(uuid "6964a090-a4c2-4543-aa4b-f98a090173d3")
+		)
+		(pin "1"
+			(uuid "6c43170e-ed4e-477c-af88-a2d82496e632")
+		)
+		(pin "4"
+			(uuid "86d4097a-e0aa-412b-9637-b0f221557ced")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 88.9 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c6ac4aca-2dd7-4eb6-b71a-d800bbb29402")
+		(property "Reference" "SW43"
+			(at 88.9 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 88.9 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 88.9 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 88.9 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7f6b19e7-c962-4a1a-88de-c41550ddb504")
+		)
+		(pin "3"
+			(uuid "04e8065e-5f75-4d5e-a6fb-c0529fa1fd27")
+		)
+		(pin "1"
+			(uuid "4a3e7424-5fd2-47c4-b733-02c50bbd74d3")
+		)
+		(pin "4"
+			(uuid "e0632647-1ef7-4408-a3c8-2b3c96ccc0a0")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 161.29 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ca256fd4-e9fc-4019-9b9d-88d3b375757f")
+		(property "Reference" "SW21"
+			(at 161.29 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 161.29 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 161.29 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 161.29 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3be6a1bc-8aa7-462a-bab1-039a1028620a")
+		)
+		(pin "3"
+			(uuid "2c3341d2-722a-4e0c-936e-0cfb0aa408d2")
+		)
+		(pin "1"
+			(uuid "8d74f3df-e05a-4da6-95ca-90e211dec50d")
+		)
+		(pin "4"
+			(uuid "52ce8db6-1f48-4f38-9a1a-640e3df11d7d")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 185.42 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ced9f71b-1312-4979-b63f-62b327ee30d9")
+		(property "Reference" "SW9"
+			(at 185.42 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 185.42 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 185.42 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 185.42 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e0ef8851-d001-4ce4-ac07-7941b30e4bdd")
+		)
+		(pin "3"
+			(uuid "f37bb744-ed88-4c4a-ac23-01a44faf6561")
+		)
+		(pin "1"
+			(uuid "654f8666-7800-4a5b-a30e-45c7cdefe10e")
+		)
+		(pin "4"
+			(uuid "389e5201-0e45-4ad2-b112-36b4e3055cd2")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 64.77 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cefada87-aaa7-4381-bdc7-4a6a9915f877")
+		(property "Reference" "SW49"
+			(at 64.77 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 64.77 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 64.77 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 64.77 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5b4a1ebd-1ca1-42be-be85-7bdebe76034e")
+		)
+		(pin "3"
+			(uuid "bbf8d667-3071-4572-b0dc-76919e2413d0")
+		)
+		(pin "1"
+			(uuid "1f70854c-cf03-49cb-bda5-4925d7208c13")
+		)
+		(pin "4"
+			(uuid "4cd6bbe4-a7ee-492e-900e-a86ac9071c3a")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 137.16 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d292fb74-7692-4233-84ca-253cc25338fc")
+		(property "Reference" "SW26"
+			(at 137.16 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 137.16 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 137.16 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 137.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cf30e4a2-6322-4d4b-8dbc-cc361001e764")
+		)
+		(pin "3"
+			(uuid "12d8eecd-8c1e-472b-ac2e-2d562aa9398a")
+		)
+		(pin "1"
+			(uuid "6faeb00a-e5e8-4f3f-a024-3109b1d3c491")
+		)
+		(pin "4"
+			(uuid "99673520-b628-4098-82dc-422d8ec369c1")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 88.9 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d630d12b-0a69-4f02-99e6-b6c081a25a32")
+		(property "Reference" "SW45"
+			(at 88.9 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 88.9 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 88.9 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 88.9 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "076266f4-23c9-4f44-a53a-d6fe9987afaa")
+		)
+		(pin "3"
+			(uuid "cd3bb564-f4e3-4a13-9e1c-e27f6d227dc3")
+		)
+		(pin "1"
+			(uuid "d201f6d0-ea62-4958-bda2-ff3b15098923")
+		)
+		(pin "4"
+			(uuid "f8f6a943-bd1d-4fff-a6a9-9389842f0b1d")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 185.42 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d74856a7-473a-4fbd-a83b-0ca815979dcf")
+		(property "Reference" "SW14"
+			(at 185.42 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 185.42 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 185.42 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 185.42 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "993412ad-b767-41b7-888e-3f16ccc35fe4")
+		)
+		(pin "3"
+			(uuid "7161fec3-344d-4caa-aa7c-66608dbc5577")
+		)
+		(pin "1"
+			(uuid "e3ade7d9-2e5c-4d3c-a0e9-cfc9e248f4b1")
+		)
+		(pin "4"
+			(uuid "65e670ea-e7b0-4cb4-8bfc-e2b15ea5413f")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 137.16 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d7e9d613-54f5-47cd-bc56-2b7fd5aedffc")
+		(property "Reference" "SW30"
+			(at 137.16 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 137.16 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 137.16 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 137.16 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5c9300aa-8739-41d5-8daa-1d801b55193f")
+		)
+		(pin "3"
+			(uuid "c49510b9-67ea-4d6b-94e1-58b5a78ccc4a")
+		)
+		(pin "1"
+			(uuid "e64add0b-86c1-4b58-8e66-9ca9b49bd343")
+		)
+		(pin "4"
+			(uuid "ff2f75ee-55df-4d5f-878c-30564cd57d77")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 113.03 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d85803ea-5449-4611-a5a0-c0b36706f727")
+		(property "Reference" "SW38"
+			(at 113.03 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 113.03 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 113.03 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 113.03 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "47ff58a9-c072-44d7-95d5-51cbae19142a")
+		)
+		(pin "3"
+			(uuid "c30b5b1e-7842-4263-afa9-33d0b5ad2445")
+		)
+		(pin "1"
+			(uuid "baccd276-eb0c-4094-b605-0070f04e5f67")
+		)
+		(pin "4"
+			(uuid "51e51be2-b32b-45a0-9fc7-f3eb536dfd02")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 185.42 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "df552817-21b1-44b2-a586-6de53e62772c")
+		(property "Reference" "SW11"
+			(at 185.42 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 185.42 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 185.42 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 185.42 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "9e1dccc2-f44b-41ca-80a4-dc5fd5a5d636")
+		)
+		(pin "3"
+			(uuid "924c6596-6c23-4b3a-b86c-ca915422d17b")
+		)
+		(pin "1"
+			(uuid "a61a5be1-d137-42d5-874d-75974e562e78")
+		)
+		(pin "4"
+			(uuid "3b3b8922-2638-4591-acaa-2211dfb06c98")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 40.64 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e1afecd3-ee1d-40e1-9793-69a01b62d79f")
+		(property "Reference" "SW60"
+			(at 40.64 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 40.64 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 40.64 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 40.64 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "10258586-e451-4636-8e57-8883491abeb9")
+		)
+		(pin "3"
+			(uuid "aa6d7a09-3bfa-43e1-94cd-cacfddcaf029")
+		)
+		(pin "1"
+			(uuid "013c2f46-3a9f-494d-8a19-3578788a7bc1")
+		)
+		(pin "4"
+			(uuid "92c5a0ee-baea-4beb-97e4-37dd65b89a27")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 161.29 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e5160658-c6a9-414e-a2cf-db9f3e4373b3")
+		(property "Reference" "SW23"
+			(at 161.29 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 161.29 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 161.29 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 161.29 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a5517265-ad32-42d9-b9a9-81a732e34c96")
+		)
+		(pin "3"
+			(uuid "882c9a6c-3409-4930-84bb-5b340558a3f2")
+		)
+		(pin "1"
+			(uuid "cc704a9f-a743-4f1f-a07b-bd3011fd90b5")
+		)
+		(pin "4"
+			(uuid "f901ca4f-ae19-4a8b-a138-fa469b852d5f")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 88.9 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e6d05e30-b11b-4973-8087-976f1b0094ad")
+		(property "Reference" "SW44"
+			(at 88.9 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 88.9 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 88.9 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 88.9 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "14d6d6d9-0f70-4829-b421-865db670f039")
+		)
+		(pin "3"
+			(uuid "317aeecd-5eb7-40bd-ad6a-c5535caac040")
+		)
+		(pin "1"
+			(uuid "07c907a7-e5cb-44db-a1c0-8847282aac62")
+		)
+		(pin "4"
+			(uuid "45fa4a03-cf31-49a6-bff2-2120f4653d95")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 88.9 187.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e7e91c5c-58de-4dde-a932-f9104b241455")
+		(property "Reference" "SW48"
+			(at 88.9 177.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 88.9 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 88.9 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 88.9 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "9c9d1417-eeb2-4c11-8fbf-6ca5c33f4ada")
+		)
+		(pin "3"
+			(uuid "c1f90c4c-eb83-4a02-b279-e0872b017f6c")
+		)
+		(pin "1"
+			(uuid "a7f963cb-cd00-4bc1-a530-75085244a685")
+		)
+		(pin "4"
+			(uuid "18c3d7ac-56b0-4c66-9113-ee0f6ac0b167")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 40.64 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e8901650-0d83-4a16-882c-2572378ccdc2")
+		(property "Reference" "SW57"
+			(at 40.64 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 40.64 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "df6697d3-5fc0-4410-8d8e-35397860014e")
+		)
+		(pin "3"
+			(uuid "5d5d1c3e-09da-4009-9b1f-6e17eab2287a")
+		)
+		(pin "1"
+			(uuid "289b6076-dfc7-4009-80ab-90658e31f799")
+		)
+		(pin "4"
+			(uuid "5ab8da3e-64d1-43cc-b9ff-d947417e5f89")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 113.03 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ed9c079f-b2d8-4812-a438-1ac090e97fac")
+		(property "Reference" "SW35"
+			(at 113.03 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 113.03 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 113.03 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 113.03 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "daf64925-08f0-4e21-85ea-3b350b8c876f")
+		)
+		(pin "3"
+			(uuid "3a4730c6-3647-4dc7-bef3-0eace372a240")
+		)
+		(pin "1"
+			(uuid "28037d27-fb03-4728-8e53-f31c87640efe")
+		)
+		(pin "4"
+			(uuid "9d4f97c8-25ff-4006-a31a-a59cebf3cdda")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 161.29 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ef79fa93-83b8-4922-a3d8-32125842212a")
+		(property "Reference" "SW22"
+			(at 161.29 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 161.29 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 161.29 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 161.29 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c2b2039f-7904-49c2-8012-acef599034d2")
+		)
+		(pin "3"
+			(uuid "80304762-f865-4a3a-b601-f619145c7993")
+		)
+		(pin "1"
+			(uuid "aa158fdd-b673-4e86-92fa-ab05db247cd3")
+		)
+		(pin "4"
+			(uuid "f7806898-284b-4c9e-bf59-01fa68d189c6")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 209.55 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f4404d5a-808b-43a1-887a-945af49f9ffb")
+		(property "Reference" "SW2"
+			(at 209.55 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 209.55 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 209.55 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 209.55 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6693c929-3102-435c-a61c-0f0bd0a42772")
+		)
+		(pin "3"
+			(uuid "e560c4bd-eb5f-4cbc-bb5c-7314e4e5273f")
+		)
+		(pin "1"
+			(uuid "30a02102-8472-4021-ac90-131865a38d2d")
+		)
+		(pin "4"
+			(uuid "6ae94631-906b-44df-9752-fe5fc9185f86")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 209.55 187.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f4e16b81-5878-4c1c-990c-72cdf67fbeb9")
+		(property "Reference" "SW8"
+			(at 209.55 177.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 209.55 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 209.55 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 209.55 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fdb6efab-a58d-4794-bbcf-e9bdd717ee3b")
+		)
+		(pin "3"
+			(uuid "3a970b22-7dfe-46b3-aa6b-1e8dbf960548")
+		)
+		(pin "1"
+			(uuid "133e0b07-5eed-49a3-a5a7-4179377a0852")
+		)
+		(pin "4"
+			(uuid "2be87231-4b6a-4d4d-a946-b3d4286ef638")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 113.03 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f7646fa2-2e3c-4e8f-a17d-c60118e6a9ec")
+		(property "Reference" "SW36"
+			(at 113.03 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 113.03 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 113.03 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 113.03 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "13705c9d-4725-4fa3-ae6e-fba8527c148e")
+		)
+		(pin "3"
+			(uuid "88abcfc8-efed-4bf1-8088-2236f7d5ff4d")
+		)
+		(pin "1"
+			(uuid "cd7b9489-2bed-47c2-8263-e1768b09e3b7")
+		)
+		(pin "4"
+			(uuid "0fc0f8ae-90f0-4964-8b49-f00e28f4c6de")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 185.42 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f7de66c4-7c2a-48f9-8f10-96678e27ec4c")
+		(property "Reference" "SW12"
+			(at 185.42 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 185.42 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 185.42 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 185.42 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "99ef54a3-64b6-4b2a-add4-f0000b9e597f")
+		)
+		(pin "3"
+			(uuid "3231902e-5de3-4fe3-ac8e-caa65b1f9921")
+		)
+		(pin "1"
+			(uuid "7a584160-67e4-43e6-bc15-0235b27466f8")
+		)
+		(pin "4"
+			(uuid "9983e83f-14f7-4fbc-a63b-928f4af5e962")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 185.42 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fbdc0b6e-da26-47a6-90c6-e227c02dcce2")
+		(property "Reference" "SW10"
+			(at 185.42 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 185.42 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 185.42 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 185.42 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3007a7f8-a064-4acb-a658-cb457380e187")
+		)
+		(pin "3"
+			(uuid "87af9d9e-79d8-4ee8-a096-13ee4226b372")
+		)
+		(pin "1"
+			(uuid "0fdde45d-ec27-45fe-87c0-8922412093b6")
+		)
+		(pin "4"
+			(uuid "febeadcd-8037-4b06-a034-ca18b7a2cd06")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 209.55 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fd12cdd5-dd6c-464a-9c55-963817bd8227")
+		(property "Reference" "SW3"
+			(at 209.55 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 209.55 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 209.55 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 209.55 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "47d378e8-0858-429f-931f-1157a065dd7f")
+		)
+		(pin "3"
+			(uuid "4e0e4126-34cc-42e1-ae1f-c98544bf72eb")
+		)
+		(pin "1"
+			(uuid "4d371e4b-4579-4477-9ada-4804f6d4ea4c")
+		)
+		(pin "4"
+			(uuid "1d8b8ff3-9d0a-4def-aefe-5ab7c829598f")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 137.16 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fe708b96-e525-4f05-9c2c-622410b7cad5")
+		(property "Reference" "SW25"
+			(at 137.16 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 137.16 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SW_PUSH-12mm:SW_PUSH-12mm"
+			(at 137.16 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 137.16 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "06838ee9-23b5-4a75-bad5-0af290a3568c")
+		)
+		(pin "3"
+			(uuid "0bb4990a-941b-4da6-be1b-8edfd21935b4")
+		)
+		(pin "1"
+			(uuid "1dc3070d-2fbb-4ecf-ba96-181bdcf055e6")
+		)
+		(pin "4"
+			(uuid "85ab544d-de1d-4ddc-8547-bf2fe31ea174")
+		)
+		(instances
+			(project "Button_Matrix"
+				(path "/15df9415-1286-4935-8571-01d38bb1b404"
+					(reference "SW25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

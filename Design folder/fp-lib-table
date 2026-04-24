@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SW_PUSH-12mm") (type "KiCad") (uri "${KIPRJMOD}/SW_PUSH-12mm.pretty") (options "") (descr ""))
+)
