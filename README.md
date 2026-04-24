@@ -9,9 +9,10 @@ I am currently making a game using Arduino Nano, LED matrix and button matrix. T
 <img width="2296" height="4080" alt="image" src="https://github.com/user-attachments/assets/41a34e78-2b3f-47ab-b829-6a9aad551360" />
 
 I have an LED matrix which is currently 04 x 04. But want to change to 08 x 08 for more gaming experience.
+
 It is currently looking like this:
 
-
+<img width="2296" height="4080" alt="image" src="https://github.com/user-attachments/assets/e78204c4-8cc3-4b3c-bcc7-f904d572616a" />
 
 So, I saw a need for 08 x 08 button matrix.
 Here is the schematic
@@ -33,4 +34,4 @@ Used F.Cu for route tracking, F.Silkscreen for labelling and Edge.Cuts for outli
 | Item No. | Part Name        | Description              | Quantity | Unit | Total Cost(INR) | Links                                                                                                                                   |
 |----------|------------------|--------------------------|----------|------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | 12mm x 12mm Tactile push button   | For pressing     | 64        | pcs  | 400             | https://robocraze.com/products/tactile-push-button-switch-assorted-kit-25-pieces-pack?_pos=1&_sid=301d52fbd&_ss=r                          |                                              |
-| 2        | Header Pins (2mm)| For attaching on the PCB         | 1        | pcs  | 36              | https://shop.controllerstech.com/products/header-pins-40-1-right-angle-with-2mm-pitch?variant=47468750831903&country=IN&currency=INR    |
+| 2        | Header Pins (2mm)| For attaching on the PCB         | 1        | pcs  | 36              | https://evelta.com/1x16-pin-2-54mm-pitch-male-straight-brass-pins/R    |
