@@ -1,4 +1,11 @@
-**Day 1 - Getting the schematic** _Hours spent: 6 hours_
+---
+title: "Button Matrix"
+author: "Rohan Seshasai Vasa"
+description: "This is a button matrix for my arduino game"
+created_at: "2026-04-23"
+---
+
+**Day 1 (23-04-2026) - Getting the schematic** _Hours spent: 6 hours_
 
 Took the components needed - Tactile push button, Diodes(1N4148) and pin header 01 x 08.
 
@@ -25,7 +32,7 @@ This was such a very huge PCB, but needed for the feel to play the game.
 Finally ran the ERC and got no errors and logging of the day.
 
 
-**Day 2 - Making the PCB** _Hours spent: 7 hours_
+**Day 2 (24-04-26) - Making the PCB** _Hours spent: 7 hours_
 
 I first updated the schematic into the PCB editor.
 
