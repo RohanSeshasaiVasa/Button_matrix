@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../../../Gerber files/Button_Matrix/")
 		)
 	)
 	(footprint "SW_PUSH-12mm:SW_PUSH-12mm"
@@ -16239,7 +16239,7 @@
 		(end 34.5 26.55)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "d74a150d-77f9-4865-bef7-24141b10bb59")

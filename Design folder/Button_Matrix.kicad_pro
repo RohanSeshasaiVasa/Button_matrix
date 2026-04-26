@@ -515,7 +515,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../Gerber files/Button_Matrix/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
