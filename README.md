@@ -33,6 +33,6 @@ Used F.Cu for route tracking, F.Silkscreen for labelling and Edge.Cuts for outli
 
 | Item No. | Part Name        | Description              | Quantity | Unit | Total Cost(INR) | Links                                                                                                                                   |
 |----------|------------------|--------------------------|----------|------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 1        | 12mm x 12mm Tactile push button   | For pressing     | 64        | pcs  | 400             | https://robocraze.com/products/tactile-push-button-switch-assorted-kit-25-pieces-pack?_pos=1&_sid=301d52fbd&_ss=r                          |                                              |
-| 2        | Header Pins (2.54mm)| For attaching on the PCB         | 1        | pcs  | 36              | https://evelta.com/1x16-pin-2-54mm-pitch-male-straight-brass-pins    |
-| 3        | PCB grant | To order the PCB         | 5        | pcs  | 3770              | https://cart.jlcpcb.com/quote/gerberviewThree/?qs=6395cc0f3cbd44e48086e7938acfc41c_1_0_1_0_0.html    |
+| 1        | 12mm x 12mm Tactile push button   | For pressing     | 64        | pcs  | 604             | https://www.amazon.in/gp/product/B07NCZJX3M/ref=ox_sc_act_title_1?smid=AJ6SIZC8YQDZX&psc=1                          |                                              |
+| 2        | Header Pins (2.54mm)| For attaching on the PCB         | 1        | pcs  | 135              | https://www.amazon.in/Plated-2-54mm-Header-Single-Straight/dp/B09HGTM3PS/ref=sr_1_5?sr=8-5    |
+| 3        | PCB printing service | To order the PCB         | 5        | pcs  | 3770              | https://cart.jlcpcb.com/quote/gerberviewThree/?qs=6395cc0f3cbd44e48086e7938acfc41c_1_0_1_0_0.html    |
