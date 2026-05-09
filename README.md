@@ -21,7 +21,7 @@ Here is the schematic
 
 Here is the PCB 
 
-<img width="745" height="510" alt="image" src="https://github.com/user-attachments/assets/bb3a7598-8eea-4167-949d-d2a242cb2fc7" />
+<img width="507" height="378" alt="image" src="https://github.com/user-attachments/assets/55b59057-596c-4e8d-8ef4-252e390fad47" />
 
 Here is the 3D design
 
